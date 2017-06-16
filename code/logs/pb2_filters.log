@@ -1,0 +1,2253 @@
+
+     300K RTMLI Filter 1 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   36  0
+     300K RTMLI Filter 1 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+                  Window ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   39  0
+     300K RTMLI Filter 1 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+      Incident Radiation ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   30  0
+     300K RTMLI Filter 1 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   45  0
+     300K RTMLI Filter 1 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   30  0
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   38  0
+     300K RTMLI Filter 1 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+             Front Plate ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   53  0
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   38  0
+     300K RTMLI Filter 1 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   30  0
+            Window Clamp ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   39  0
+     300K RTMLI Filter 1 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   36  0
+     300K RTMLI Filter 1 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+     300K RTMLI Filter 2 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   40  0
+     300K RTMLI Filter 2 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+     300K RTMLI Filter 2 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+     300K RTMLI Filter 2 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   30  0
+     300K RTMLI Filter 3 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+     300K RTMLI Filter 2 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+     300K RTMLI Filter 3 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   37  0
+     300K RTMLI Filter 2 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   29  0
+     300K RTMLI Filter 2 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   35  0
+     300K RTMLI Filter 4 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+     300K RTMLI Filter 2 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+     300K RTMLI Filter 2 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   36  0
+     300K RTMLI Filter 2 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+     300K RTMLI Filter 3 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   35  0
+     300K RTMLI Filter 3 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+     300K RTMLI Filter 3 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   29  0
+     300K RTMLI Filter 4 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   37  0
+     300K RTMLI Filter 4 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   34  0
+     300K RTMLI Filter 3 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+     300K RTMLI Filter 4 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   34  0
+     300K RTMLI Filter 4 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   27  0
+     300K RTMLI Filter 3 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   30  0
+     300K RTMLI Filter 5 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+     300K RTMLI Filter 1 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  1
+     300K RTMLI Filter 3 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+     300K RTMLI Filter 3 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   34  0
+     300K RTMLI Filter 4 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   36  0
+     300K RTMLI Filter 4 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   29  0
+     300K RTMLI Filter 4 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   30  0
+     300K RTMLI Filter 4 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   31  0
+     300K RTMLI Filter 5 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   35  0
+     300K RTMLI Filter 5 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   34  0
+     300K RTMLI Filter 5 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+     300K RTMLI Filter 5 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   32  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   72  0
+     300K RTMLI Filter 3 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   26  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   73  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   43  0
+     300K RTMLI Filter 5 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+     300K RTMLI Filter 5 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   28  0
+     300K RTMLI Filter 5 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   39  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   49  0
+     300K RTMLI Filter 5 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   37  0
+     300K RTMLI Filter 6 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   35  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   92  0
+     300K RTMLI Filter 6 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   56  0
+     300K RTMLI Filter 6 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   35  0
+     300K RTMLI Filter 6 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   84  0
+     300K RTMLI Filter 6 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   46  0
+     300K RTMLI Filter 4 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   33  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   96  0
+     300K RTMLI Filter 6 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   27  0
+     300K RTMLI Filter 6 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   38  0
+    40K Alumina Filter 1 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   51  0
+     300K RTMLI Filter 6 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   49  0
+     300K RTMLI Filter 6 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   78  0
+     300K RTMLI Filter 6 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   63  0
+    40K Alumina Filter 1 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   68  0
+       4K Alumina Lens 1 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   95  0
+    40K Alumina Filter 1 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   56  0
+    40K Alumina Filter 1 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   55  0
+    40K Alumina Filter 1 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   40  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  163  0
+     300K RTMLI Filter 5 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   39  0
+    40K Alumina Filter 1 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   72  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  297  0
+       4K Alumina Lens 1 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  192  0
+       4K Alumina Lens 1 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   63  0
+       4K Alumina Lens 1 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   60  0
+    40K Alumina Filter 1 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   81  0
+       4K Alumina Lens 1 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  140  0
+    40K Alumina Filter 1 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   70  0
+    40K Alumina Filter 1 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   99  0
+       4K Alumina Lens 1 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   94  0
+       4K Alumina Lens 1 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  119  0
+           40K to 4K Gap ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  236  0
+       4K Alumina Lens 1 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  130  0
+       4K Alumina Lens 2 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   88  0
+    40K Alumina Filter 1 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   58  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  179  0
+       4K Alumina Lens 1 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  173  0
+       4K Alumina Lens 2 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  2
+         Filter Ring Top ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  134  0
+       4K Alumina Lens 2 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  4
+           4K Lens Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  356  0
+       4K Alumina Lens 1 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  168  0
+       4K Alumina Lens 2 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  5
+       4K Alumina Lens 2 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  1
+       4K Alumina Lens 2 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  2
+       4K Alumina Lens 2 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  2
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  10
+       4K Alumina Lens 2 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  1
+       4K Alumina Lens 2 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  2
+           4K Lens Gap 2 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  16
+       4K Alumina Lens 2 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  149  0
+          4K LP Filter 2 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   28  0
+          4K LP Filter 1 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  3
+       4K Alumina Lens 3 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   13  0
+             LP Filter 3 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  14
+          4K LP Filter 1 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  1
+          4K LP Filter 1 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  7
+          4K LP Filter 2 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  4
+          4K LP Filter 1 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  7
+       4K Alumina Lens 3 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   13  0
+          4K LP Filter 1 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  9
+             LP Filter 3 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  12
+          4K LP Filter 1 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  1
+          4K LP Filter 1 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  3
+           Lyot Stop Top ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   36  0
+          4K LP Filter 2 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  9
+             LP Filter 3 ( 1/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+       4K Alumina Lens 3 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   13  0
+          4K LP Filter 2 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  4
+             LP Filter 3 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  3
+        Lyot Stop Middle ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   39  0
+       4K Alumina Lens 3 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   13  0
+             LP Filter 3 ( 2/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  66
+             LP Filter 3 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+        Lyot Stop Bottom ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =    2  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  178
+          4K LP Filter 2 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  6
+          4K LP Filter 2 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  2
+             LP Filter 3 ( 3/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+       4K Alumina Lens 3 ( 6/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+      4K LP Filter Gap 2 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  369
+       4K Alumina Lens 3 ( 5/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   13  0
+             LP Filter 3 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+             LP Filter 3 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+              Lens 3 Gap ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   15  0
+          4K LP Filter 2 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  4
+       4K Alumina Lens 3 ( 9/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+          4K LP Filter 2 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  5
+            Array Module ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   15  0
+       4K Alumina Lens 3 ( 7/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+          4K LP Filter 2 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  6
+       4K Alumina Lens 3 ( 8/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   15  0
+       LP Filter Clamp 3 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   15  0
+      LP Filter to Array ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   15  0
+          4K LP Filter 2 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  3
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  347
+       4K Alumina Lens 3 (10/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+           Lyot Stop Gap ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =  999  21
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 0.0e+00-1.0e+10 Hz, Iterations =   15  0
+             LP Filter 3 ( 4/10): Band = 0.0e+00-1.0e+10 Hz, Iterations =   14  0
+     300K RTMLI Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   39  0
+
+     300K RTMLI Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   44  0
+                  Window ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   38  0
+     300K RTMLI Filter 3 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+      Incident Radiation ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+     300K RTMLI Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+     300K RTMLI Filter 4 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   31  0
+     300K RTMLI Filter 2 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   39  0
+     300K RTMLI Filter 2 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 2 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   37  0
+     300K RTMLI Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   43  0
+     300K RTMLI Filter 3 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   40  0
+     300K RTMLI Filter 4 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   31  0
+     300K RTMLI Filter 2 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   42  0
+     300K RTMLI Filter 2 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   41  0
+            Window Clamp ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   46  0
+     300K RTMLI Filter 5 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   30  0
+     300K RTMLI Filter 3 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   37  0
+     300K RTMLI Filter 4 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+     300K RTMLI Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+     300K RTMLI Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   37  0
+             Front Plate ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   84  0
+     300K RTMLI Filter 4 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   32  0
+     300K RTMLI Filter 3 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   37  0
+     300K RTMLI Filter 3 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 2 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   41  0
+     300K RTMLI Filter 4 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+     300K RTMLI Filter 5 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   32  0
+     300K RTMLI Filter 2 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 2 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+     300K RTMLI Filter 5 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   41  0
+     300K RTMLI Filter 2 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+     300K RTMLI Filter 4 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   87  0
+     300K RTMLI Filter 4 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+     300K RTMLI Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 5 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+     300K RTMLI Filter 3 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   31  0
+     300K RTMLI Filter 6 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   53  0
+     300K RTMLI Filter 6 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   61  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+     300K RTMLI Filter 3 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+     300K RTMLI Filter 3 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   30  0
+     300K RTMLI Filter 6 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   46  0
+     300K RTMLI Filter 5 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 6 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   47  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+     300K RTMLI Filter 2 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   36  0
+       4K Alumina Lens 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   95  0
+     300K RTMLI Filter 3 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   34  0
+     300K RTMLI Filter 6 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   42  0
+     300K RTMLI Filter 5 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+     300K RTMLI Filter 5 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   46  0
+    40K Alumina Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   46  0
+    40K Alumina Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   75  0
+    40K Alumina Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+     300K RTMLI Filter 4 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  186  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   43  0
+     300K RTMLI Filter 4 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   40  0
+     300K RTMLI Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+       4K Alumina Lens 2 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  115  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  230  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   97  0
+    40K Alumina Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   79  0
+     300K RTMLI Filter 6 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+     300K RTMLI Filter 6 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   37  0
+     300K RTMLI Filter 6 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   44  0
+    40K Alumina Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   44  0
+     300K RTMLI Filter 5 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   35  0
+     300K RTMLI Filter 3 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+     300K RTMLI Filter 6 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   32  0
+     300K RTMLI Filter 5 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   66  0
+       4K Alumina Lens 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  127  0
+       4K Alumina Lens 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  120  0
+       4K Alumina Lens 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  138  0
+       4K Alumina Lens 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   72  0
+    40K Alumina Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   74  0
+     300K RTMLI Filter 6 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   52  0
+     300K RTMLI Filter 4 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   33  0
+    40K Alumina Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  122  0
+       4K Alumina Lens 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  136  0
+    40K Alumina Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   39  0
+    40K Alumina Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   99  0
+       4K Alumina Lens 2 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  131  0
+         Filter Ring Top ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   83  0
+           40K to 4K Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  287  0
+       4K Alumina Lens 2 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+          4K LP Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+       4K Alumina Lens 2 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  114  0
+       4K Alumina Lens 2 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  2
+     300K RTMLI Filter 5 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   42  0
+       4K Alumina Lens 2 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+       4K Alumina Lens 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  103  0
+       4K Alumina Lens 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  166  0
+       4K Alumina Lens 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  144  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  140  0
+           4K Lens Gap 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  31
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   37  0
+           4K Lens Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  431  0
+    40K Alumina Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   97  0
+             LP Filter 3 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+       4K Alumina Lens 2 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  157  0
+       4K Alumina Lens 2 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  126  0
+          4K LP Filter 2 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  6
+          4K LP Filter 2 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  4
+          4K LP Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  11
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  10
+          4K LP Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  2
+       4K Alumina Lens 3 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+       4K Alumina Lens 3 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   13  0
+       4K Alumina Lens 2 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  2
+       4K Alumina Lens 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   81  0
+          4K LP Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  2
+             LP Filter 3 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  16
+             LP Filter 3 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  14
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   39  0
+             LP Filter 3 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  12
+          4K LP Filter 2 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  6
+          4K LP Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  7
+       4K Alumina Lens 3 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   13  0
+          4K LP Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+             LP Filter 3 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 2 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  3
+          4K LP Filter 2 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  7
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  73
+       4K Alumina Lens 3 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+       4K Alumina Lens 3 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   13  0
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =    2  0
+          4K LP Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  7
+             LP Filter 3 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+       4K Alumina Lens 2 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  1
+             LP Filter 3 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 2 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  6
+            Array Module ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15  0
+       4K Alumina Lens 3 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 2 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  3
+      LP Filter to Array ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15  0
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  368
+       4K Alumina Lens 3 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   13  0
+          4K LP Filter 2 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  4
+             LP Filter 3 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15  0
+       4K Alumina Lens 3 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+          4K LP Filter 2 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  4
+             LP Filter 3 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+       4K Alumina Lens 3 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+       LP Filter Clamp 3 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15  0
+      4K LP Filter Gap 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  420
+              Lens 3 Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15  0
+          4K LP Filter 2 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  6
+       4K Alumina Lens 3 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  187
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999  19
+             LP Filter 3 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   14  0
+     300K RTMLI Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   40  0
+                  Window ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   35  0
+     300K RTMLI Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   33  0
+
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   46  0
+     300K RTMLI Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   26  0
+     300K RTMLI Filter 2 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   47  0
+     300K RTMLI Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   33  0
+     300K RTMLI Filter 2 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+      Incident Radiation ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   33  0
+     300K RTMLI Filter 4 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   27  0
+     300K RTMLI Filter 2 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   34  0
+     300K RTMLI Filter 3 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   29  0
+     300K RTMLI Filter 3 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   31  0
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   38  0
+     300K RTMLI Filter 2 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   24  0
+     300K RTMLI Filter 4 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+     300K RTMLI Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+     300K RTMLI Filter 2 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   27  0
+     300K RTMLI Filter 5 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   51  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   37  0
+     300K RTMLI Filter 4 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   28  0
+     300K RTMLI Filter 3 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+     300K RTMLI Filter 3 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   31  0
+     300K RTMLI Filter 4 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   35  0
+     300K RTMLI Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   26  0
+     300K RTMLI Filter 5 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   46  0
+     300K RTMLI Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+     300K RTMLI Filter 3 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   28  0
+     300K RTMLI Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+            Window Clamp ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   39  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   37  0
+     300K RTMLI Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   28  0
+             Front Plate ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   71  0
+     300K RTMLI Filter 5 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+     300K RTMLI Filter 5 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   41  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   86  0
+     300K RTMLI Filter 4 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+     300K RTMLI Filter 2 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   31  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   61  0
+     300K RTMLI Filter 6 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   35  0
+     300K RTMLI Filter 6 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   52  0
+     300K RTMLI Filter 2 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   33  0
+     300K RTMLI Filter 2 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   35  0
+     300K RTMLI Filter 2 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   27  0
+     300K RTMLI Filter 4 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   36  0
+     300K RTMLI Filter 4 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   27  0
+     300K RTMLI Filter 3 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   31  0
+     300K RTMLI Filter 2 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   23  0
+     300K RTMLI Filter 6 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   57  0
+     300K RTMLI Filter 6 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   56  0
+     300K RTMLI Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   31  0
+     300K RTMLI Filter 3 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+       4K Alumina Lens 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   81  0
+    40K Alumina Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+     300K RTMLI Filter 4 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   27  0
+     300K RTMLI Filter 3 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+     300K RTMLI Filter 5 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+    40K Alumina Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   78  0
+     300K RTMLI Filter 6 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   37  0
+     300K RTMLI Filter 4 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   80  0
+     300K RTMLI Filter 3 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   28  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  246  0
+       4K Alumina Lens 2 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   91  0
+     300K RTMLI Filter 5 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   27  0
+     300K RTMLI Filter 3 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   29  0
+    40K Alumina Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   81  0
+     300K RTMLI Filter 5 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   33  0
+     300K RTMLI Filter 5 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   38  0
+       4K Alumina Lens 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   76  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  251  0
+     300K RTMLI Filter 5 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   42  0
+    40K Alumina Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   44  0
+          4K LP Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   42  0
+    40K Alumina Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   41  0
+       4K Alumina Lens 2 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   77  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   42  0
+       4K Alumina Lens 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   99  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   91  0
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   24  0
+     300K RTMLI Filter 4 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   28  0
+     300K RTMLI Filter 6 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   59  0
+       4K Alumina Lens 2 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  247  0
+             LP Filter 3 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+     300K RTMLI Filter 6 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   61  0
+       4K Alumina Lens 2 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   99  0
+     300K RTMLI Filter 6 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   73  0
+       4K Alumina Lens 2 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  146  0
+     300K RTMLI Filter 6 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   49  0
+    40K Alumina Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   67  0
+     300K RTMLI Filter 6 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+         Filter Ring Top ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  135  0
+       4K Alumina Lens 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  122  0
+       4K Alumina Lens 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  196  0
+     300K RTMLI Filter 5 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   52  0
+       4K Alumina Lens 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   89  0
+    40K Alumina Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   77  0
+       4K Alumina Lens 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  128  0
+       4K Alumina Lens 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   66  0
+    40K Alumina Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   37  0
+    40K Alumina Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  103  0
+       4K Alumina Lens 2 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  106  0
+           40K to 4K Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  189  0
+    40K Alumina Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   50  0
+          4K LP Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  1
+       4K Alumina Lens 2 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   70  0
+       4K Alumina Lens 2 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   93  0
+          4K LP Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   33  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  116  0
+       4K Alumina Lens 2 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   71  0
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   30  0
+          4K LP Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  2
+          4K LP Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  4
+             LP Filter 3 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =    5  0
+       4K Alumina Lens 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   80  0
+          4K LP Filter 2 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  6
+           4K Lens Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  354  0
+       4K Alumina Lens 3 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+          4K LP Filter 2 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  5
+             LP Filter 3 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+       4K Alumina Lens 3 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  2
+             LP Filter 3 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+           4K Lens Gap 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  4
+          4K LP Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  1
+       4K Alumina Lens 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  1
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  102
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  5
+          4K LP Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  2
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =    2  0
+          4K LP Filter 2 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  6
+          4K LP Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  2
+          4K LP Filter 2 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  5
+             LP Filter 3 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =    5  0
+       4K Alumina Lens 3 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+       4K Alumina Lens 3 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+      LP Filter to Array ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =    6  0
+          4K LP Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  3
+       4K Alumina Lens 2 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  1
+            Array Module ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =    9  0
+          4K LP Filter 2 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  6
+          4K LP Filter 2 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  2
+       4K Alumina Lens 3 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+       4K Alumina Lens 3 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+             LP Filter 3 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+             LP Filter 3 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+          4K LP Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  4
+          4K LP Filter 2 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  10
+          4K LP Filter 2 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  5
+      4K LP Filter Gap 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  402
+       4K Alumina Lens 3 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+       4K Alumina Lens 3 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+             LP Filter 3 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+              Lens 3 Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   15  0
+          4K LP Filter 2 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  3
+       4K Alumina Lens 3 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  65
+       LP Filter Clamp 3 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   15  0
+          4K LP Filter 2 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  9
+       4K Alumina Lens 3 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   13  0
+             LP Filter 3 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14  0
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999  15
+             LP Filter 3 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   12  0
+     300K RTMLI Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   12  0
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 4 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 5 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   35  0
+                  Window ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   17  0
+       4K Alumina Lens 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  115  0
+     300K RTMLI Filter 2 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 3 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+       4K Alumina Lens 2 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  106  0
+     300K RTMLI Filter 4 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 6 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   13  0
+          4K LP Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   59  0
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   17  0
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9  0
+     300K RTMLI Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9  0
+     300K RTMLI Filter 3 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+    40K Alumina Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   54  0
+             LP Filter 3 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+     300K RTMLI Filter 4 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    2  0
+     300K RTMLI Filter 2 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 4 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    7  0
+     300K RTMLI Filter 5 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+       4K Alumina Lens 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   90  0
+    40K Alumina Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   64  0
+     300K RTMLI Filter 6 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   18  0
+         Filter Ring Top ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   89  0
+       4K Alumina Lens 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   85  0
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   10  0
+     300K RTMLI Filter 3 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  286  0
+       4K Alumina Lens 2 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   83  0
+     300K RTMLI Filter 4 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   12  0
+       4K Alumina Lens 2 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   81  0
+     300K RTMLI Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    7  0
+     300K RTMLI Filter 2 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5  0
+    40K Alumina Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   68  0
+          4K LP Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   66  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    8  0
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 2 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+     300K RTMLI Filter 6 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   21  0
+     300K RTMLI Filter 3 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+
+     300K RTMLI Filter 5 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   21  0
+       4K Alumina Lens 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  246  0
+      Incident Radiation ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+          4K LP Filter 2 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  9
+     300K RTMLI Filter 6 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   18  0
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   41  0
+     300K RTMLI Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   12  0
+     300K RTMLI Filter 2 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+       4K Alumina Lens 3 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5  0
+       4K Alumina Lens 2 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  133  0
+             LP Filter 3 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+     300K RTMLI Filter 4 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 4 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+    40K Alumina Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  105  0
+          4K LP Filter 2 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  3
+          4K LP Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   45  0
+     300K RTMLI Filter 5 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5  0
+     300K RTMLI Filter 6 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   16  0
+       4K Alumina Lens 3 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+             LP Filter 3 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+    40K Alumina Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   44  0
+       4K Alumina Lens 2 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  107  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   89  0
+          4K LP Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   38  0
+       4K Alumina Lens 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  103  0
+       4K Alumina Lens 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  176  0
+       4K Alumina Lens 2 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  124  0
+          4K LP Filter 2 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  7
+       4K Alumina Lens 3 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+          4K LP Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   52  0
+           4K Lens Gap 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  249  0
+             LP Filter 3 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    7  0
+          4K LP Filter 2 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  5
+             LP Filter 3 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+       4K Alumina Lens 3 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+            Array Module ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+             Front Plate ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   91  0
+     300K RTMLI Filter 2 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+          4K LP Filter 2 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  3
+     300K RTMLI Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   15  0
+     300K RTMLI Filter 3 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+       4K Alumina Lens 3 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   16  0
+      LP Filter to Array ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5  0
+     300K RTMLI Filter 2 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    6  0
+     300K RTMLI Filter 6 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   10  0
+     300K RTMLI Filter 3 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 5 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 5 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5  0
+     300K RTMLI Filter 6 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   12  0
+    40K Alumina Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   54  0
+     300K RTMLI Filter 6 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   13  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   88  0
+     300K RTMLI Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   43  0
+          4K LP Filter 2 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  5
+    40K Alumina Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   72  0
+     300K RTMLI Filter 2 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+       4K Alumina Lens 3 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+            Window Clamp ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   29  0
+          4K LP Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   54  0
+     300K RTMLI Filter 4 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+             LP Filter 3 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+           40K to 4K Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  190  0
+     300K RTMLI Filter 2 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    7  0
+     300K RTMLI Filter 5 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5  0
+     300K RTMLI Filter 3 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 6 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   18  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+     300K RTMLI Filter 6 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   10  0
+       4K Alumina Lens 2 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  166  0
+       4K Alumina Lens 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   86  0
+          4K LP Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   33  0
+    40K Alumina Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   50  0
+       4K Alumina Lens 2 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   60  0
+           4K Lens Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  511  0
+       4K Alumina Lens 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   87  0
+          4K LP Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   58  0
+          4K LP Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   69  0
+          4K LP Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   45  0
+          4K LP Filter 2 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  2
+       4K Alumina Lens 3 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+             LP Filter 3 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+          4K LP Filter 2 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  3
+       4K Alumina Lens 3 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+     300K RTMLI Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9  0
+          4K LP Filter 2 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  4
+          4K LP Filter 2 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  3
+     300K RTMLI Filter 3 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+       4K Alumina Lens 3 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+     300K RTMLI Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   32  0
+     300K RTMLI Filter 4 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+             LP Filter 3 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+       LP Filter Clamp 3 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+     300K RTMLI Filter 5 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3  0
+      4K LP Filter Gap 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  417
+     300K RTMLI Filter 4 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4  0
+              Lens 3 Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+     300K RTMLI Filter 5 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9  0
+    40K Alumina Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   98  0
+    40K Alumina Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   53  0
+       4K Alumina Lens 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  117  0
+       4K Alumina Lens 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   67  0
+       4K Alumina Lens 2 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  133  0
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    0  0
+       4K Alumina Lens 2 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  148  0
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+             LP Filter 3 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  138  0
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999  16
+             LP Filter 3 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    1  0
+
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2  0
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+                  Window ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   10  0
+     300K RTMLI Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    9  0
+     300K RTMLI Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   12  0
+     300K RTMLI Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   14  0
+      Incident Radiation ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3  0
+     300K RTMLI Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   14  0
+     300K RTMLI Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   10  0
+     300K RTMLI Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   18  0
+     300K RTMLI Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   20  0
+     300K RTMLI Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   29  0
+     300K RTMLI Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   26  0
+     300K RTMLI Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   34  0
+     300K RTMLI Filter 3 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+            Window Clamp ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   38  0
+     300K RTMLI Filter 2 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+             Front Plate ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   71  0
+     300K RTMLI Filter 2 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 2 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 3 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   19  0
+     300K RTMLI Filter 2 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 3 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 3 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    8  0
+     300K RTMLI Filter 4 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 3 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 4 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+     300K RTMLI Filter 5 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+     300K RTMLI Filter 6 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   13  0
+     300K RTMLI Filter 6 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   11  0
+     300K RTMLI Filter 6 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   14  0
+     300K RTMLI Filter 6 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   15  0
+     300K RTMLI Filter 6 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   17  0
+    40K Alumina Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   75  0
+     300K RTMLI Filter 6 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   32  0
+     300K RTMLI Filter 6 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   27  0
+    40K Alumina Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   52  0
+     300K RTMLI Filter 6 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   19  0
+    40K Alumina Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   69  0
+     300K RTMLI Filter 6 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   15  0
+    40K Alumina Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   39  0
+     300K RTMLI Filter 6 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  113  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   86  0
+    40K Alumina Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   53  0
+    40K Alumina Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   58  0
+       4K Alumina Lens 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   86  0
+    40K Alumina Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   70  0
+    40K Alumina Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   50  0
+       4K Alumina Lens 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   97  0
+    40K Alumina Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  149  0
+    40K Alumina Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  136  0
+       4K Alumina Lens 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   79  0
+       4K Alumina Lens 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  126  0
+       4K Alumina Lens 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   92  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 2 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  130  0
+       4K Alumina Lens 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   87  0
+       4K Alumina Lens 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  132  0
+          4K LP Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   35  0
+          4K LP Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   49  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  288  0
+       4K Alumina Lens 2 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  148  0
+       4K Alumina Lens 2 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   85  0
+       4K Alumina Lens 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  219  0
+       4K Alumina Lens 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   80  0
+       4K Alumina Lens 2 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  125  0
+       4K Alumina Lens 2 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  129  0
+       4K Alumina Lens 2 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  154  0
+          4K LP Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   65  0
+       4K Alumina Lens 2 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  181  0
+       4K Alumina Lens 2 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  145  0
+          4K LP Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   71  0
+       4K Alumina Lens 2 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   73  0
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    4  0
+         Filter Ring Top ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   69  0
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   57  0
+          4K LP Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   58  0
+             LP Filter 3 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   49  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  149  0
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   11  0
+           4K Lens Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  416  0
+             LP Filter 3 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+             LP Filter 3 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   31  0
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+           4K Lens Gap 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  377  0
+           40K to 4K Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  1
+       4K Alumina Lens 2 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   66  0
+       4K Alumina Lens 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  1
+          4K LP Filter 2 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  3
+          4K LP Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   42  0
+       4K Alumina Lens 3 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   26  0
+          4K LP Filter 2 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  4
+          4K LP Filter 2 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  3
+             LP Filter 3 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  7
+             LP Filter 3 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+            Array Module ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  6
+       4K Alumina Lens 3 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+             LP Filter 3 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  6
+      LP Filter to Array ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  16
+             LP Filter 3 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+             LP Filter 3 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  3
+          4K LP Filter 2 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  4
+       4K Alumina Lens 3 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+      4K LP Filter Gap 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  424
+             LP Filter 3 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       LP Filter Clamp 3 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+              Lens 3 Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  5
+          4K LP Filter 2 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999  4
+       4K Alumina Lens 3 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+       4K Alumina Lens 3 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+             LP Filter 3 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0  0
+
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    8  0
+     300K RTMLI Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   13  0
+     300K RTMLI Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   12  0
+                  Window ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   40  0
+     300K RTMLI Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   16  0
+     300K RTMLI Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    8  0
+     300K RTMLI Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   14  0
+     300K RTMLI Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   10  0
+      Incident Radiation ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    3  0
+     300K RTMLI Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   12  0
+     300K RTMLI Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   24  0
+     300K RTMLI Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   18  0
+     300K RTMLI Filter 3 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+            Window Clamp ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   39  0
+     300K RTMLI Filter 2 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+     300K RTMLI Filter 2 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+             Front Plate ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   98  0
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6  0
+     300K RTMLI Filter 3 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+     300K RTMLI Filter 3 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   10  0
+     300K RTMLI Filter 3 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+     300K RTMLI Filter 4 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    2  0
+     300K RTMLI Filter 5 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+     300K RTMLI Filter 6 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    9  0
+     300K RTMLI Filter 6 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   15  0
+     300K RTMLI Filter 6 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   11  0
+     300K RTMLI Filter 6 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   12  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+     300K RTMLI Filter 6 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    9  0
+     300K RTMLI Filter 6 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   17  0
+    40K Alumina Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   32  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1  0
+    40K Alumina Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   47  0
+     300K RTMLI Filter 6 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   17  0
+     300K RTMLI Filter 6 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    8  0
+     300K RTMLI Filter 6 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   10  0
+    40K Alumina Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   55  0
+     300K RTMLI Filter 6 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   12  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+    40K Alumina Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   40  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   69  0
+    40K Alumina Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  102  0
+    40K Alumina Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  110  0
+    40K Alumina Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   92  0
+    40K Alumina Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   60  0
+       4K Alumina Lens 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   77  0
+    40K Alumina Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   55  0
+    40K Alumina Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   65  0
+       4K Alumina Lens 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  116  0
+       4K Alumina Lens 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  157  0
+       4K Alumina Lens 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  112  0
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       4K Alumina Lens 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   80  0
+       4K Alumina Lens 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  105  0
+       4K Alumina Lens 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  146  0
+           40K to 4K Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  184  0
+       4K Alumina Lens 2 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  187  0
+       4K Alumina Lens 2 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  105  0
+       4K Alumina Lens 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  124  0
+          4K LP Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   46  0
+       4K Alumina Lens 2 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   73  0
+       4K Alumina Lens 2 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   72  0
+          4K LP Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   35  0
+          4K LP Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   82  0
+       4K Alumina Lens 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  163  0
+       4K Alumina Lens 2 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   68  0
+       4K Alumina Lens 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  178  0
+       4K Alumina Lens 2 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  109  0
+       4K Alumina Lens 2 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   78  0
+       4K Alumina Lens 2 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  112  0
+          4K LP Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   39  0
+       4K Alumina Lens 2 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  133  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  441  0
+          4K LP Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   47  0
+          4K LP Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   32  0
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    4  0
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   61  0
+             LP Filter 3 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+         Filter Ring Top ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   84  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  118  0
+           4K Lens Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  371  0
+          4K LP Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  173  0
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    8  0
+             LP Filter 3 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       4K Alumina Lens 2 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  130  0
+           4K Lens Gap 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  315  0
+             LP Filter 3 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   32  0
+          4K LP Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   68  0
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  4
+       4K Alumina Lens 3 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+             LP Filter 3 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  5
+          4K LP Filter 2 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  9
+       4K Alumina Lens 3 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  7
+       4K Alumina Lens 3 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  9
+             LP Filter 3 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+      LP Filter to Array ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  3
+       4K Alumina Lens 3 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+            Array Module ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+             LP Filter 3 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+             LP Filter 3 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  3
+          4K LP Filter 2 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  2
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  30
+          4K LP Filter 2 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  3
+       4K Alumina Lens 3 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       4K Alumina Lens 3 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+             LP Filter 3 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  6
+       4K Alumina Lens 3 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+             LP Filter 3 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+      4K LP Filter Gap 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999  416
+             LP Filter 3 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+              Lens 3 Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+       LP Filter Clamp 3 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0  0
+
+300K RTMLI Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+                  Window ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   16  0
+     300K RTMLI Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    8  0
+     300K RTMLI Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   12  0
+      Incident Radiation ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    3  0
+     300K RTMLI Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    9  0
+     300K RTMLI Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   26  0
+     300K RTMLI Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    8  0
+     300K RTMLI Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    9  0
+     300K RTMLI Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   10  0
+     300K RTMLI Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   20  0
+     300K RTMLI Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   22  0
+     300K RTMLI Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   27  0
+     300K RTMLI Filter 3 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             Front Plate ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   63  0
+     300K RTMLI Filter 2 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+            Window Clamp ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   33  0
+     300K RTMLI Filter 2 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+     300K RTMLI Filter 2 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+ 300K RTMLI Filter Gap 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+     300K RTMLI Filter 4 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 2 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+300K RTMLI Filter Clamp 3 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+     300K RTMLI Filter 3 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 3 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   16  0
+     300K RTMLI Filter 4 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+ 300K RTMLI Filter Gap 5 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    3  0
+300K RTMLI Filter Clamp 5 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+     300K RTMLI Filter 5 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 3 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 5 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 4 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+     300K RTMLI Filter 5 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+     300K RTMLI Filter 6 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   11  0
+300K RTMLI Filter Clamp 4 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1  0
+ 300K RTMLI Filter Gap 4 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    3  0
+300K RTMLI Filter Clamp 6 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+     300K RTMLI Filter 6 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   17  0
+     300K RTMLI Filter 6 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   13  0
+     300K RTMLI Filter 6 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   19  0
+     300K RTMLI Filter 6 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   20  0
+     300K RTMLI Filter 6 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   60  0
+     300K RTMLI Filter 6 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   28  0
+     300K RTMLI Filter 6 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   11  0
+    40K Alumina Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   74  0
+     300K RTMLI Filter 6 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   20  0
+     300K RTMLI Filter 6 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    9  0
+ 300K RTMLI Filter Gap 6 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   71  0
+    40K Alumina Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  104  0
+40K Alumina Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+    40K Alumina Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   75  0
+    40K Alumina Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  103  0
+    40K Alumina Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  107  0
+    40K Alumina Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   49  0
+       4K Alumina Lens 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   99  0
+    40K Alumina Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   62  0
+    40K Alumina Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   77  0
+    40K Alumina Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  110  0
+    40K Alumina Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   89  0
+       4K Alumina Lens 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  104  0
+       4K Alumina Lens 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   69  0
+       4K Alumina Lens 2 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  101  0
+       4K Alumina Lens 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  125  0
+       4K Alumina Lens 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   77  0
+       4K Alumina Lens 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   98  0
+ 4K Alumina Lens Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  212  0
+       4K Alumina Lens 2 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  108  0
+       4K Alumina Lens 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   97  0
+          4K LP Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   72  0
+           40K to 4K Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  290  0
+       4K Alumina Lens 2 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   91  0
+ 4K Alumina Lens Clamp 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 2 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   88  0
+       4K Alumina Lens 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   85  0
+        4K to Lens 1 Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  418  0
+       4K Alumina Lens 2 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   71  0
+          4K LP Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   66  0
+          4K LP Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  140  0
+       4K Alumina Lens 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  141  0
+          4K LP Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   34  0
+       4K Alumina Lens 2 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  108  0
+       4K Alumina Lens 2 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  177  0
+       4K Alumina Lens 2 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  133  0
+          4K LP Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   48  0
+    4K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    5  0
+         Filter Ring Top ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   62  0
+          4K LP Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   41  0
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+           4K Lens Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  250  0
+       4K Alumina Lens 2 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   69  0
+       4K Alumina Lens 2 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  114  0
+             LP Filter 3 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   58  0
+      4K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   76  0
+             LP Filter 3 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   33  0
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6  0
+          4K LP Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   46  0
+          4K LP Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   66  0
+           4K Lens Gap 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  341  0
+             LP Filter 3 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+    4K LP Filter Clamp 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+ 4K Alumina Lens Clamp 3 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  5
+          4K LP Filter 2 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  5
+       4K Alumina Lens 3 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  4
+          4K LP Filter 2 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  1
+          4K LP Filter 2 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  7
+            Array Module ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             LP Filter 3 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  1
+          4K LP Filter 2 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  5
+      LP Filter to Array ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             LP Filter 3 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             LP Filter 3 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       4K Alumina Lens 3 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             LP Filter 3 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  22
+          4K LP Filter 2 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  1
+             LP Filter 3 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             LP Filter 3 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 2 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  6
+       4K Alumina Lens 3 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+          4K LP Filter 2 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  4
+       4K Alumina Lens 3 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+       LP Filter Clamp 3 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+      4K LP Filter Gap 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999  443
+       4K Alumina Lens 3 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+              Lens 3 Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+             LP Filter 3 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0  0
+
+300K RTMLI Filter 1: Iteration =  1, Temperature = 279.166 K, Load = -4.87e-02 W
+300K RTMLI Filter 2: Iteration =  1, Temperature = 271.895 K, Load = -2.05e-02 W
+300K RTMLI Filter 3: Iteration =  1, Temperature = 263.400 K, Load = -5.36e-03 W
+300K RTMLI Filter 4: Iteration =  1, Temperature = 254.249 K, Load =  2.92e-03 W
+300K RTMLI Filter 5: Iteration =  1, Temperature = 244.632 K, Load =  6.56e-03 W
+300K RTMLI Filter 6: Iteration =  1, Temperature = 205.926 K, Load = -2.63e-01 W
+40K Alumina Filter 1: Iteration =  1, Temperature =  56.819 K, Load =  2.02e+01 W
+ 4K Alumina Lens 1: Iteration =  1, Temperature =   5.087 K, Load =  1.13e-01 W
+ 4K Alumina Lens 2: Iteration =  1, Temperature =   4.610 K, Load =  2.04e-03 W
+    4K LP Filter 1: Iteration =  1, Temperature =   4.801 K, Load =  2.25e-04 W
+    4K LP Filter 2: Iteration =  1, Temperature =   4.656 K, Load =  6.15e-05 W
+ 4K Alumina Lens 3: Iteration =  1, Temperature =   4.900 K, Load =  1.76e-06 W
+       LP Filter 3: Iteration =  1, Temperature =   0.590 K, Load =  4.64e-06 W
+
+300K RTMLI Filter 1: Iteration =  2, Temperature = 278.185 K, Load = -5.81e-02 W
+300K RTMLI Filter 2: Iteration =  2, Temperature = 271.091 K, Load = -2.78e-02 W
+300K RTMLI Filter 3: Iteration =  2, Temperature = 263.070 K, Load = -7.97e-03 W
+300K RTMLI Filter 4: Iteration =  2, Temperature = 254.320 K, Load =  4.10e-03 W
+300K RTMLI Filter 5: Iteration =  2, Temperature = 233.758 K, Load = -9.16e-02 W
+300K RTMLI Filter 6: Iteration =  2, Temperature = 196.881 K, Load = -3.36e-01 W
+40K Alumina Filter 1: Iteration =  2, Temperature =  56.065 K, Load =  1.71e+01 W
+ 4K Alumina Lens 1: Iteration =  2, Temperature =   5.071 K, Load =  1.10e-01 W
+ 4K Alumina Lens 2: Iteration =  2, Temperature =   4.610 K, Load =  2.02e-03 W
+    4K LP Filter 1: Iteration =  2, Temperature =   4.799 K, Load =  2.23e-04 W
+    4K LP Filter 2: Iteration =  2, Temperature =   4.655 K, Load =  6.09e-05 W
+ 4K Alumina Lens 3: Iteration =  2, Temperature =   4.900 K, Load =  1.74e-06 W
+       LP Filter 3: Iteration =  2, Temperature =   0.590 K, Load =  4.64e-06 W
+
+300K RTMLI Filter 1: Iteration =  3, Temperature = 277.814 K, Load = -6.14e-02 W
+300K RTMLI Filter 2: Iteration =  3, Temperature = 270.739 K, Load = -3.07e-02 W
+300K RTMLI Filter 3: Iteration =  3, Temperature = 262.900 K, Load = -9.08e-03 W
+300K RTMLI Filter 4: Iteration =  3, Temperature = 249.573 K, Load = -3.72e-02 W
+300K RTMLI Filter 5: Iteration =  3, Temperature = 227.676 K, Load = -1.41e-01 W
+300K RTMLI Filter 6: Iteration =  3, Temperature = 191.787 K, Load = -3.73e-01 W
+40K Alumina Filter 1: Iteration =  3, Temperature =  55.682 K, Load =  1.55e+01 W
+ 4K Alumina Lens 1: Iteration =  3, Temperature =   5.063 K, Load =  1.08e-01 W
+ 4K Alumina Lens 2: Iteration =  3, Temperature =   4.610 K, Load =  2.01e-03 W
+    4K LP Filter 1: Iteration =  3, Temperature =   4.797 K, Load =  2.21e-04 W
+    4K LP Filter 2: Iteration =  3, Temperature =   4.655 K, Load =  6.05e-05 W
+ 4K Alumina Lens 3: Iteration =  3, Temperature =   4.900 K, Load =  1.72e-06 W
+       LP Filter 3: Iteration =  3, Temperature =   0.590 K, Load =  4.63e-06 W
+
+300K RTMLI Filter 1: Iteration =  4, Temperature = 277.652 K, Load = -6.27e-02 W
+300K RTMLI Filter 2: Iteration =  4, Temperature = 270.569 K, Load = -3.19e-02 W
+300K RTMLI Filter 3: Iteration =  4, Temperature = 260.690 K, Load = -2.76e-02 W
+300K RTMLI Filter 4: Iteration =  4, Temperature = 245.815 K, Load = -6.71e-02 W
+300K RTMLI Filter 5: Iteration =  4, Temperature = 223.571 K, Load = -1.71e-01 W
+300K RTMLI Filter 6: Iteration =  4, Temperature = 188.349 K, Load = -3.95e-01 W
+40K Alumina Filter 1: Iteration =  4, Temperature =  55.440 K, Load =  1.45e+01 W
+ 4K Alumina Lens 1: Iteration =  4, Temperature =   5.057 K, Load =  1.06e-01 W
+ 4K Alumina Lens 2: Iteration =  4, Temperature =   4.610 K, Load =  2.00e-03 W
+    4K LP Filter 1: Iteration =  4, Temperature =   4.796 K, Load =  2.20e-04 W
+    4K LP Filter 2: Iteration =  4, Temperature =   4.655 K, Load =  6.02e-05 W
+ 4K Alumina Lens 3: Iteration =  4, Temperature =   4.900 K, Load =  1.70e-06 W
+       LP Filter 3: Iteration =  4, Temperature =   0.590 K, Load =  4.63e-06 W
+
+300K RTMLI Filter 1: Iteration =  5, Temperature = 277.572 K, Load = -6.33e-02 W
+300K RTMLI Filter 2: Iteration =  5, Temperature = 269.518 K, Load = -4.04e-02 W
+300K RTMLI Filter 3: Iteration =  5, Temperature = 258.467 K, Load = -4.49e-02 W
+300K RTMLI Filter 4: Iteration =  5, Temperature = 242.869 K, Load = -8.85e-02 W
+300K RTMLI Filter 5: Iteration =  5, Temperature = 220.536 K, Load = -1.91e-01 W
+300K RTMLI Filter 6: Iteration =  5, Temperature = 185.808 K, Load = -4.10e-01 W
+40K Alumina Filter 1: Iteration =  5, Temperature =  55.269 K, Load =  1.39e+01 W
+ 4K Alumina Lens 1: Iteration =  5, Temperature =   5.054 K, Load =  1.05e-01 W
+ 4K Alumina Lens 2: Iteration =  5, Temperature =   4.609 K, Load =  1.99e-03 W
+    4K LP Filter 1: Iteration =  5, Temperature =   4.795 K, Load =  2.19e-04 W
+    4K LP Filter 2: Iteration =  5, Temperature =   4.654 K, Load =  5.99e-05 W
+ 4K Alumina Lens 3: Iteration =  5, Temperature =   4.900 K, Load =  1.69e-06 W
+       LP Filter 3: Iteration =  5, Temperature =   0.590 K, Load =  4.63e-06 W
+
+300K RTMLI Filter 1: Iteration =  6, Temperature = 277.090 K, Load = -6.71e-02 W
+300K RTMLI Filter 2: Iteration =  6, Temperature = 268.253 K, Load = -5.00e-02 W
+300K RTMLI Filter 3: Iteration =  6, Temperature = 256.488 K, Load = -5.91e-02 W
+300K RTMLI Filter 4: Iteration =  6, Temperature = 240.497 K, Load = -1.05e-01 W
+300K RTMLI Filter 5: Iteration =  6, Temperature = 218.166 K, Load = -2.06e-01 W
+300K RTMLI Filter 6: Iteration =  6, Temperature = 183.824 K, Load = -4.21e-01 W
+40K Alumina Filter 1: Iteration =  6, Temperature =  55.141 K, Load =  1.33e+01 W
+ 4K Alumina Lens 1: Iteration =  6, Temperature =   5.051 K, Load =  1.05e-01 W
+ 4K Alumina Lens 2: Iteration =  6, Temperature =   4.609 K, Load =  1.98e-03 W
+    4K LP Filter 1: Iteration =  6, Temperature =   4.795 K, Load =  2.18e-04 W
+    4K LP Filter 2: Iteration =  6, Temperature =   4.654 K, Load =  5.97e-05 W
+ 4K Alumina Lens 3: Iteration =  6, Temperature =   4.900 K, Load =  1.68e-06 W
+       LP Filter 3: Iteration =  6, Temperature =   0.590 K, Load =  4.63e-06 W
+
+300K RTMLI Filter 1: Iteration =  7, Temperature = 276.514 K, Load = -7.14e-02 W
+300K RTMLI Filter 2: Iteration =  7, Temperature = 267.054 K, Load = -5.86e-02 W
+300K RTMLI Filter 3: Iteration =  7, Temperature = 254.799 K, Load = -7.05e-02 W
+300K RTMLI Filter 4: Iteration =  7, Temperature = 238.562 K, Load = -1.17e-01 W
+300K RTMLI Filter 5: Iteration =  7, Temperature = 216.260 K, Load = -2.17e-01 W
+300K RTMLI Filter 6: Iteration =  7, Temperature = 182.228 K, Load = -4.29e-01 W
+40K Alumina Filter 1: Iteration =  7, Temperature =  55.041 K, Load =  1.30e+01 W
+ 4K Alumina Lens 1: Iteration =  7, Temperature =   5.049 K, Load =  1.04e-01 W
+ 4K Alumina Lens 2: Iteration =  7, Temperature =   4.609 K, Load =  1.97e-03 W
+    4K LP Filter 1: Iteration =  7, Temperature =   4.794 K, Load =  2.18e-04 W
+    4K LP Filter 2: Iteration =  7, Temperature =   4.654 K, Load =  5.95e-05 W
+ 4K Alumina Lens 3: Iteration =  7, Temperature =   4.900 K, Load =  1.67e-06 W
+       LP Filter 3: Iteration =  7, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration =  8, Temperature = 275.973 K, Load = -7.52e-02 W
+300K RTMLI Filter 2: Iteration =  8, Temperature = 266.008 K, Load = -6.55e-02 W
+300K RTMLI Filter 3: Iteration =  8, Temperature = 253.385 K, Load = -7.93e-02 W
+300K RTMLI Filter 4: Iteration =  8, Temperature = 236.973 K, Load = -1.26e-01 W
+300K RTMLI Filter 5: Iteration =  8, Temperature = 214.706 K, Load = -2.25e-01 W
+300K RTMLI Filter 6: Iteration =  8, Temperature = 180.928 K, Load = -4.35e-01 W
+40K Alumina Filter 1: Iteration =  8, Temperature =  54.961 K, Load =  1.27e+01 W
+ 4K Alumina Lens 1: Iteration =  8, Temperature =   5.047 K, Load =  1.04e-01 W
+ 4K Alumina Lens 2: Iteration =  8, Temperature =   4.609 K, Load =  1.97e-03 W
+    4K LP Filter 1: Iteration =  8, Temperature =   4.794 K, Load =  2.17e-04 W
+    4K LP Filter 2: Iteration =  8, Temperature =   4.654 K, Load =  5.93e-05 W
+ 4K Alumina Lens 3: Iteration =  8, Temperature =   4.900 K, Load =  1.66e-06 W
+       LP Filter 3: Iteration =  8, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration =  9, Temperature = 275.504 K, Load = -7.83e-02 W
+300K RTMLI Filter 2: Iteration =  9, Temperature = 265.126 K, Load = -7.10e-02 W
+300K RTMLI Filter 3: Iteration =  9, Temperature = 252.214 K, Load = -8.62e-02 W
+300K RTMLI Filter 4: Iteration =  9, Temperature = 235.668 K, Load = -1.33e-01 W
+300K RTMLI Filter 5: Iteration =  9, Temperature = 213.433 K, Load = -2.31e-01 W
+300K RTMLI Filter 6: Iteration =  9, Temperature = 179.862 K, Load = -4.40e-01 W
+40K Alumina Filter 1: Iteration =  9, Temperature =  54.897 K, Load =  1.24e+01 W
+ 4K Alumina Lens 1: Iteration =  9, Temperature =   5.045 K, Load =  1.03e-01 W
+ 4K Alumina Lens 2: Iteration =  9, Temperature =   4.609 K, Load =  1.97e-03 W
+    4K LP Filter 1: Iteration =  9, Temperature =   4.793 K, Load =  2.17e-04 W
+    4K LP Filter 2: Iteration =  9, Temperature =   4.654 K, Load =  5.92e-05 W
+ 4K Alumina Lens 3: Iteration =  9, Temperature =   4.900 K, Load =  1.66e-06 W
+       LP Filter 3: Iteration =  9, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 10, Temperature = 275.111 K, Load = -8.08e-02 W
+300K RTMLI Filter 2: Iteration = 10, Temperature = 264.396 K, Load = -7.53e-02 W
+300K RTMLI Filter 3: Iteration = 10, Temperature = 251.250 K, Load = -9.15e-02 W
+300K RTMLI Filter 4: Iteration = 10, Temperature = 234.597 K, Load = -1.38e-01 W
+300K RTMLI Filter 5: Iteration = 10, Temperature = 212.389 K, Load = -2.36e-01 W
+300K RTMLI Filter 6: Iteration = 10, Temperature = 178.988 K, Load = -4.44e-01 W
+40K Alumina Filter 1: Iteration = 10, Temperature =  54.846 K, Load =  1.22e+01 W
+ 4K Alumina Lens 1: Iteration = 10, Temperature =   5.044 K, Load =  1.03e-01 W
+ 4K Alumina Lens 2: Iteration = 10, Temperature =   4.609 K, Load =  1.96e-03 W
+    4K LP Filter 1: Iteration = 10, Temperature =   4.793 K, Load =  2.16e-04 W
+    4K LP Filter 2: Iteration = 10, Temperature =   4.654 K, Load =  5.91e-05 W
+ 4K Alumina Lens 3: Iteration = 10, Temperature =   4.900 K, Load =  1.65e-06 W
+       LP Filter 3: Iteration = 10, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 11, Temperature = 274.787 K, Load = -8.26e-02 W
+300K RTMLI Filter 2: Iteration = 11, Temperature = 263.796 K, Load = -7.86e-02 W
+300K RTMLI Filter 3: Iteration = 11, Temperature = 250.459 K, Load = -9.56e-02 W
+300K RTMLI Filter 4: Iteration = 11, Temperature = 233.719 K, Load = -1.43e-01 W
+300K RTMLI Filter 5: Iteration = 11, Temperature = 211.533 K, Load = -2.40e-01 W
+300K RTMLI Filter 6: Iteration = 11, Temperature = 178.272 K, Load = -4.47e-01 W
+40K Alumina Filter 1: Iteration = 11, Temperature =  54.804 K, Load =  1.21e+01 W
+ 4K Alumina Lens 1: Iteration = 11, Temperature =   5.043 K, Load =  1.03e-01 W
+ 4K Alumina Lens 2: Iteration = 11, Temperature =   4.609 K, Load =  1.96e-03 W
+    4K LP Filter 1: Iteration = 11, Temperature =   4.793 K, Load =  2.16e-04 W
+    4K LP Filter 2: Iteration = 11, Temperature =   4.654 K, Load =  5.90e-05 W
+ 4K Alumina Lens 3: Iteration = 11, Temperature =   4.900 K, Load =  1.65e-06 W
+       LP Filter 3: Iteration = 11, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 12, Temperature = 274.522 K, Load = -8.41e-02 W
+300K RTMLI Filter 2: Iteration = 12, Temperature = 263.305 K, Load = -8.12e-02 W
+300K RTMLI Filter 3: Iteration = 12, Temperature = 249.811 K, Load = -9.88e-02 W
+300K RTMLI Filter 4: Iteration = 12, Temperature = 233.000 K, Load = -1.46e-01 W
+300K RTMLI Filter 5: Iteration = 12, Temperature = 210.833 K, Load = -2.43e-01 W
+300K RTMLI Filter 6: Iteration = 12, Temperature = 177.686 K, Load = -4.49e-01 W
+40K Alumina Filter 1: Iteration = 12, Temperature =  54.771 K, Load =  1.19e+01 W
+ 4K Alumina Lens 1: Iteration = 12, Temperature =   5.043 K, Load =  1.03e-01 W
+ 4K Alumina Lens 2: Iteration = 12, Temperature =   4.609 K, Load =  1.96e-03 W
+    4K LP Filter 1: Iteration = 12, Temperature =   4.792 K, Load =  2.16e-04 W
+    4K LP Filter 2: Iteration = 12, Temperature =   4.654 K, Load =  5.89e-05 W
+ 4K Alumina Lens 3: Iteration = 12, Temperature =   4.900 K, Load =  1.65e-06 W
+       LP Filter 3: Iteration = 12, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 13, Temperature = 274.306 K, Load = -8.52e-02 W
+300K RTMLI Filter 2: Iteration = 13, Temperature = 262.904 K, Load = -8.32e-02 W
+300K RTMLI Filter 3: Iteration = 13, Temperature = 249.283 K, Load = -1.01e-01 W
+300K RTMLI Filter 4: Iteration = 13, Temperature = 232.412 K, Load = -1.49e-01 W
+300K RTMLI Filter 5: Iteration = 13, Temperature = 210.260 K, Load = -2.45e-01 W
+300K RTMLI Filter 6: Iteration = 13, Temperature = 177.206 K, Load = -4.51e-01 W
+40K Alumina Filter 1: Iteration = 13, Temperature =  54.743 K, Load =  1.18e+01 W
+ 4K Alumina Lens 1: Iteration = 13, Temperature =   5.042 K, Load =  1.03e-01 W
+ 4K Alumina Lens 2: Iteration = 13, Temperature =   4.609 K, Load =  1.96e-03 W
+    4K LP Filter 1: Iteration = 13, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 13, Temperature =   4.653 K, Load =  5.89e-05 W
+ 4K Alumina Lens 3: Iteration = 13, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 13, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 14, Temperature = 274.131 K, Load = -8.61e-02 W
+300K RTMLI Filter 2: Iteration = 14, Temperature = 262.578 K, Load = -8.47e-02 W
+300K RTMLI Filter 3: Iteration = 14, Temperature = 248.852 K, Load = -1.03e-01 W
+300K RTMLI Filter 4: Iteration = 14, Temperature = 231.933 K, Load = -1.51e-01 W
+300K RTMLI Filter 5: Iteration = 14, Temperature = 209.792 K, Load = -2.47e-01 W
+300K RTMLI Filter 6: Iteration = 14, Temperature = 176.815 K, Load = -4.52e-01 W
+40K Alumina Filter 1: Iteration = 14, Temperature =  54.721 K, Load =  1.17e+01 W
+ 4K Alumina Lens 1: Iteration = 14, Temperature =   5.041 K, Load =  1.03e-01 W
+ 4K Alumina Lens 2: Iteration = 14, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 14, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 14, Temperature =   4.653 K, Load =  5.88e-05 W
+ 4K Alumina Lens 3: Iteration = 14, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 14, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 15, Temperature = 273.988 K, Load = -8.68e-02 W
+300K RTMLI Filter 2: Iteration = 15, Temperature = 262.313 K, Load = -8.59e-02 W
+300K RTMLI Filter 3: Iteration = 15, Temperature = 248.501 K, Load = -1.05e-01 W
+300K RTMLI Filter 4: Iteration = 15, Temperature = 231.542 K, Load = -1.52e-01 W
+300K RTMLI Filter 5: Iteration = 15, Temperature = 209.411 K, Load = -2.48e-01 W
+300K RTMLI Filter 6: Iteration = 15, Temperature = 176.495 K, Load = -4.53e-01 W
+40K Alumina Filter 1: Iteration = 15, Temperature =  54.704 K, Load =  1.17e+01 W
+ 4K Alumina Lens 1: Iteration = 15, Temperature =   5.041 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 15, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 15, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 15, Temperature =   4.653 K, Load =  5.88e-05 W
+ 4K Alumina Lens 3: Iteration = 15, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 15, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 16, Temperature = 273.872 K, Load = -8.73e-02 W
+300K RTMLI Filter 2: Iteration = 16, Temperature = 262.097 K, Load = -8.68e-02 W
+300K RTMLI Filter 3: Iteration = 16, Temperature = 248.216 K, Load = -1.06e-01 W
+300K RTMLI Filter 4: Iteration = 16, Temperature = 231.224 K, Load = -1.53e-01 W
+300K RTMLI Filter 5: Iteration = 16, Temperature = 209.100 K, Load = -2.50e-01 W
+300K RTMLI Filter 6: Iteration = 16, Temperature = 176.235 K, Load = -4.54e-01 W
+40K Alumina Filter 1: Iteration = 16, Temperature =  54.689 K, Load =  1.16e+01 W
+ 4K Alumina Lens 1: Iteration = 16, Temperature =   5.041 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 16, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 16, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 16, Temperature =   4.653 K, Load =  5.88e-05 W
+ 4K Alumina Lens 3: Iteration = 16, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 16, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 17, Temperature = 273.778 K, Load = -8.77e-02 W
+300K RTMLI Filter 2: Iteration = 17, Temperature = 261.922 K, Load = -8.75e-02 W
+300K RTMLI Filter 3: Iteration = 17, Temperature = 247.984 K, Load = -1.07e-01 W
+300K RTMLI Filter 4: Iteration = 17, Temperature = 230.965 K, Load = -1.54e-01 W
+300K RTMLI Filter 5: Iteration = 17, Temperature = 208.847 K, Load = -2.50e-01 W
+300K RTMLI Filter 6: Iteration = 17, Temperature = 176.024 K, Load = -4.54e-01 W
+40K Alumina Filter 1: Iteration = 17, Temperature =  54.678 K, Load =  1.16e+01 W
+ 4K Alumina Lens 1: Iteration = 17, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 17, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 17, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 17, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 17, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 17, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 18, Temperature = 273.702 K, Load = -8.80e-02 W
+300K RTMLI Filter 2: Iteration = 18, Temperature = 261.779 K, Load = -8.81e-02 W
+300K RTMLI Filter 3: Iteration = 18, Temperature = 247.795 K, Load = -1.07e-01 W
+300K RTMLI Filter 4: Iteration = 18, Temperature = 230.755 K, Load = -1.55e-01 W
+300K RTMLI Filter 5: Iteration = 18, Temperature = 208.641 K, Load = -2.51e-01 W
+300K RTMLI Filter 6: Iteration = 18, Temperature = 175.852 K, Load = -4.55e-01 W
+40K Alumina Filter 1: Iteration = 18, Temperature =  54.668 K, Load =  1.16e+01 W
+ 4K Alumina Lens 1: Iteration = 18, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 18, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 18, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 18, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 18, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 18, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 19, Temperature = 273.640 K, Load = -8.83e-02 W
+300K RTMLI Filter 2: Iteration = 19, Temperature = 261.664 K, Load = -8.85e-02 W
+300K RTMLI Filter 3: Iteration = 19, Temperature = 247.642 K, Load = -1.08e-01 W
+300K RTMLI Filter 4: Iteration = 19, Temperature = 230.583 K, Load = -1.56e-01 W
+300K RTMLI Filter 5: Iteration = 19, Temperature = 208.474 K, Load = -2.52e-01 W
+300K RTMLI Filter 6: Iteration = 19, Temperature = 175.712 K, Load = -4.55e-01 W
+40K Alumina Filter 1: Iteration = 19, Temperature =  54.661 K, Load =  1.15e+01 W
+ 4K Alumina Lens 1: Iteration = 19, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 19, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 19, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 19, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 19, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 19, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 20, Temperature = 273.590 K, Load = -8.85e-02 W
+300K RTMLI Filter 2: Iteration = 20, Temperature = 261.570 K, Load = -8.89e-02 W
+300K RTMLI Filter 3: Iteration = 20, Temperature = 247.517 K, Load = -1.08e-01 W
+300K RTMLI Filter 4: Iteration = 20, Temperature = 230.444 K, Load = -1.56e-01 W
+300K RTMLI Filter 5: Iteration = 20, Temperature = 208.338 K, Load = -2.52e-01 W
+300K RTMLI Filter 6: Iteration = 20, Temperature = 175.598 K, Load = -4.56e-01 W
+40K Alumina Filter 1: Iteration = 20, Temperature =  54.654 K, Load =  1.15e+01 W
+ 4K Alumina Lens 1: Iteration = 20, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 20, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 20, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 20, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 20, Temperature =   4.900 K, Load =  1.64e-06 W
+       LP Filter 3: Iteration = 20, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 21, Temperature = 273.549 K, Load = -8.86e-02 W
+300K RTMLI Filter 2: Iteration = 21, Temperature = 261.494 K, Load = -8.91e-02 W
+300K RTMLI Filter 3: Iteration = 21, Temperature = 247.416 K, Load = -1.09e-01 W
+300K RTMLI Filter 4: Iteration = 21, Temperature = 230.332 K, Load = -1.56e-01 W
+300K RTMLI Filter 5: Iteration = 21, Temperature = 208.228 K, Load = -2.52e-01 W
+300K RTMLI Filter 6: Iteration = 21, Temperature = 175.506 K, Load = -4.56e-01 W
+40K Alumina Filter 1: Iteration = 21, Temperature =  54.649 K, Load =  1.15e+01 W
+ 4K Alumina Lens 1: Iteration = 21, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 21, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 21, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 21, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 21, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 21, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 22, Temperature = 273.516 K, Load = -8.87e-02 W
+300K RTMLI Filter 2: Iteration = 22, Temperature = 261.432 K, Load = -8.94e-02 W
+300K RTMLI Filter 3: Iteration = 22, Temperature = 247.334 K, Load = -1.09e-01 W
+300K RTMLI Filter 4: Iteration = 22, Temperature = 230.240 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 22, Temperature = 208.138 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 22, Temperature = 175.431 K, Load = -4.56e-01 W
+40K Alumina Filter 1: Iteration = 22, Temperature =  54.645 K, Load =  1.15e+01 W
+ 4K Alumina Lens 1: Iteration = 22, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 22, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 22, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 22, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 22, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 22, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 23, Temperature = 273.489 K, Load = -8.88e-02 W
+300K RTMLI Filter 2: Iteration = 23, Temperature = 261.382 K, Load = -8.95e-02 W
+300K RTMLI Filter 3: Iteration = 23, Temperature = 247.267 K, Load = -1.09e-01 W
+300K RTMLI Filter 4: Iteration = 23, Temperature = 230.166 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 23, Temperature = 208.066 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 23, Temperature = 175.370 K, Load = -4.56e-01 W
+40K Alumina Filter 1: Iteration = 23, Temperature =  54.642 K, Load =  1.15e+01 W
+ 4K Alumina Lens 1: Iteration = 23, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 23, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 23, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 23, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 23, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 23, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 24, Temperature = 273.468 K, Load = -8.89e-02 W
+300K RTMLI Filter 2: Iteration = 24, Temperature = 261.342 K, Load = -8.97e-02 W
+300K RTMLI Filter 3: Iteration = 24, Temperature = 247.213 K, Load = -1.09e-01 W
+300K RTMLI Filter 4: Iteration = 24, Temperature = 230.105 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 24, Temperature = 208.007 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 24, Temperature = 175.320 K, Load = -4.56e-01 W
+40K Alumina Filter 1: Iteration = 24, Temperature =  54.640 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 24, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 24, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 24, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 24, Temperature =   4.653 K, Load =  5.87e-05 W
+ 4K Alumina Lens 3: Iteration = 24, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 24, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 25, Temperature = 273.450 K, Load = -8.90e-02 W
+300K RTMLI Filter 2: Iteration = 25, Temperature = 261.309 K, Load = -8.98e-02 W
+300K RTMLI Filter 3: Iteration = 25, Temperature = 247.170 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 25, Temperature = 230.056 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 25, Temperature = 207.959 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 25, Temperature = 175.280 K, Load = -4.56e-01 W
+40K Alumina Filter 1: Iteration = 25, Temperature =  54.637 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 25, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 25, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 25, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 25, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 25, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 25, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 26, Temperature = 273.436 K, Load = -8.90e-02 W
+300K RTMLI Filter 2: Iteration = 26, Temperature = 261.282 K, Load = -8.98e-02 W
+300K RTMLI Filter 3: Iteration = 26, Temperature = 247.134 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 26, Temperature = 230.017 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 26, Temperature = 207.920 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 26, Temperature = 175.248 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 26, Temperature =  54.636 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 26, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 26, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 26, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 26, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 26, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 26, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 27, Temperature = 273.424 K, Load = -8.91e-02 W
+300K RTMLI Filter 2: Iteration = 27, Temperature = 261.260 K, Load = -8.99e-02 W
+300K RTMLI Filter 3: Iteration = 27, Temperature = 247.105 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 27, Temperature = 229.984 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 27, Temperature = 207.888 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 27, Temperature = 175.221 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 27, Temperature =  54.634 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 27, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 27, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 27, Temperature =   4.792 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 27, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 27, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 27, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 28, Temperature = 273.415 K, Load = -8.91e-02 W
+300K RTMLI Filter 2: Iteration = 28, Temperature = 261.243 K, Load = -9.00e-02 W
+300K RTMLI Filter 3: Iteration = 28, Temperature = 247.082 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 28, Temperature = 229.958 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 28, Temperature = 207.863 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 28, Temperature = 175.200 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 28, Temperature =  54.633 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 28, Temperature =   5.040 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 28, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 28, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 28, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 28, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 28, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 29, Temperature = 273.407 K, Load = -8.91e-02 W
+300K RTMLI Filter 2: Iteration = 29, Temperature = 261.228 K, Load = -9.00e-02 W
+300K RTMLI Filter 3: Iteration = 29, Temperature = 247.063 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 29, Temperature = 229.937 K, Load = -1.57e-01 W
+300K RTMLI Filter 5: Iteration = 29, Temperature = 207.842 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 29, Temperature = 175.183 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 29, Temperature =  54.632 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 29, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 29, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 29, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 29, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 29, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 29, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 30, Temperature = 273.401 K, Load = -8.91e-02 W
+300K RTMLI Filter 2: Iteration = 30, Temperature = 261.217 K, Load = -9.00e-02 W
+300K RTMLI Filter 3: Iteration = 30, Temperature = 247.048 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 30, Temperature = 229.920 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 30, Temperature = 207.825 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 30, Temperature = 175.168 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 30, Temperature =  54.632 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 30, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 30, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 30, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 30, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 30, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 30, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 31, Temperature = 273.396 K, Load = -8.91e-02 W
+300K RTMLI Filter 2: Iteration = 31, Temperature = 261.207 K, Load = -9.00e-02 W
+300K RTMLI Filter 3: Iteration = 31, Temperature = 247.035 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 31, Temperature = 229.906 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 31, Temperature = 207.812 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 31, Temperature = 175.157 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 31, Temperature =  54.631 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 31, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 31, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 31, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 31, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 31, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 31, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 32, Temperature = 273.392 K, Load = -8.91e-02 W
+300K RTMLI Filter 2: Iteration = 32, Temperature = 261.200 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 32, Temperature = 247.025 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 32, Temperature = 229.895 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 32, Temperature = 207.800 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 32, Temperature = 175.148 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 32, Temperature =  54.630 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 32, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 32, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 32, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 32, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 32, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 32, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 33, Temperature = 273.389 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 33, Temperature = 261.194 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 33, Temperature = 247.017 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 33, Temperature = 229.885 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 33, Temperature = 207.792 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 33, Temperature = 175.140 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 33, Temperature =  54.630 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 33, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 33, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 33, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 33, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 33, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 33, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 34, Temperature = 273.386 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 34, Temperature = 261.189 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 34, Temperature = 247.010 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 34, Temperature = 229.878 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 34, Temperature = 207.784 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 34, Temperature = 175.134 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 34, Temperature =  54.630 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 34, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 34, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 34, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 34, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 34, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 34, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 35, Temperature = 273.384 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 35, Temperature = 261.185 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 35, Temperature = 247.005 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 35, Temperature = 229.872 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 35, Temperature = 207.778 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 35, Temperature = 175.129 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 35, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 35, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 35, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 35, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 35, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 35, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 35, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 36, Temperature = 273.382 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 36, Temperature = 261.181 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 36, Temperature = 247.000 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 36, Temperature = 229.867 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 36, Temperature = 207.774 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 36, Temperature = 175.125 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 36, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 36, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 36, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 36, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 36, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 36, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 36, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 37, Temperature = 273.381 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 37, Temperature = 261.179 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 37, Temperature = 246.997 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 37, Temperature = 229.863 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 37, Temperature = 207.770 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 37, Temperature = 175.122 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 37, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 37, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 37, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 37, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 37, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 37, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 37, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 38, Temperature = 273.379 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 38, Temperature = 261.176 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 38, Temperature = 246.994 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 38, Temperature = 229.860 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 38, Temperature = 207.767 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 38, Temperature = 175.119 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 38, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 38, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 38, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 38, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 38, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 38, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 38, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 39, Temperature = 273.379 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 39, Temperature = 261.175 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 39, Temperature = 246.992 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 39, Temperature = 229.857 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 39, Temperature = 207.764 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 39, Temperature = 175.117 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 39, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 39, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 39, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 39, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 39, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 39, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 39, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 40, Temperature = 273.378 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 40, Temperature = 261.173 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 40, Temperature = 246.990 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 40, Temperature = 229.855 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 40, Temperature = 207.762 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 40, Temperature = 175.115 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 40, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 40, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 40, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 40, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 40, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 40, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 40, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 41, Temperature = 273.377 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 41, Temperature = 261.172 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 41, Temperature = 246.988 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 41, Temperature = 229.853 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 41, Temperature = 207.760 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 41, Temperature = 175.114 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 41, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 41, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 41, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 41, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 41, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 41, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 41, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 42, Temperature = 273.377 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 42, Temperature = 261.171 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 42, Temperature = 246.987 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 42, Temperature = 229.852 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 42, Temperature = 207.759 K, Load = -2.53e-01 W
+300K RTMLI Filter 6: Iteration = 42, Temperature = 175.113 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 42, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 42, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 42, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 42, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 42, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 42, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 42, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 43, Temperature = 273.376 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 43, Temperature = 261.170 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 43, Temperature = 246.986 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 43, Temperature = 229.851 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 43, Temperature = 207.758 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 43, Temperature = 175.112 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 43, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 43, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 43, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 43, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 43, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 43, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 43, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 44, Temperature = 273.376 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 44, Temperature = 261.170 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 44, Temperature = 246.985 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 44, Temperature = 229.850 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 44, Temperature = 207.757 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 44, Temperature = 175.111 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 44, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 44, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 44, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 44, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 44, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 44, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 44, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 45, Temperature = 273.376 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 45, Temperature = 261.169 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 45, Temperature = 246.984 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 45, Temperature = 229.849 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 45, Temperature = 207.756 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 45, Temperature = 175.111 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 45, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 45, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 45, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 45, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 45, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 45, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 45, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 46, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 46, Temperature = 261.169 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 46, Temperature = 246.984 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 46, Temperature = 229.849 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 46, Temperature = 207.756 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 46, Temperature = 175.110 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 46, Temperature =  54.629 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 46, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 46, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 46, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 46, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 46, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 46, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 47, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 47, Temperature = 261.169 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 47, Temperature = 246.983 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 47, Temperature = 229.848 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 47, Temperature = 207.755 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 47, Temperature = 175.110 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 47, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 47, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 47, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 47, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 47, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 47, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 47, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 48, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 48, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 48, Temperature = 246.983 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 48, Temperature = 229.848 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 48, Temperature = 207.755 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 48, Temperature = 175.109 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 48, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 48, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 48, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 48, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 48, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 48, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 48, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 49, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 49, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 49, Temperature = 246.983 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 49, Temperature = 229.847 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 49, Temperature = 207.754 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 49, Temperature = 175.109 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 49, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 49, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 49, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 49, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 49, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 49, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 49, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 50, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 50, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 50, Temperature = 246.983 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 50, Temperature = 229.847 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 50, Temperature = 207.754 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 50, Temperature = 175.109 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 50, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 50, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 50, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 50, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 50, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 50, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 50, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 51, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 51, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 51, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 51, Temperature = 229.847 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 51, Temperature = 207.754 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 51, Temperature = 175.109 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 51, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 51, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 51, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 51, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 51, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 51, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 51, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 52, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 52, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 52, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 52, Temperature = 229.847 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 52, Temperature = 207.754 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 52, Temperature = 175.109 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 52, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 52, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 52, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 52, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 52, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 52, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 52, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 53, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 53, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 53, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 53, Temperature = 229.847 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 53, Temperature = 207.754 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 53, Temperature = 175.109 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 53, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 53, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 53, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 53, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 53, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 53, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 53, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 54, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 54, Temperature = 261.168 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 54, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 54, Temperature = 229.847 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 54, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 54, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 54, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 54, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 54, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 54, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 54, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 54, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 54, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 55, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 55, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 55, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 55, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 55, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 55, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 55, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 55, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 55, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 55, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 55, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 55, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 55, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 56, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 56, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 56, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 56, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 56, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 56, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 56, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 56, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 56, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 56, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 56, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 56, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 56, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 57, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 57, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 57, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 57, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 57, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 57, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 57, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 57, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 57, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 57, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 57, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 57, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 57, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 58, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 58, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 58, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 58, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 58, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 58, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 58, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 58, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 58, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 58, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 58, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 58, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 58, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 59, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 59, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 59, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 59, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 59, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 59, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 59, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 59, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 59, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 59, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 59, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 59, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 59, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 60, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 60, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 60, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 60, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 60, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 60, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 60, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 60, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 60, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 60, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 60, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 60, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 60, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 61, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 61, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 61, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 61, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 61, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 61, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 61, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 61, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 61, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 61, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 61, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 61, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 61, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 62, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 62, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 62, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 62, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 62, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 62, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 62, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 62, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 62, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 62, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 62, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 62, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 62, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 63, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 63, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 63, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 63, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 63, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 63, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 63, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 63, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 63, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 63, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 63, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 63, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 63, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 64, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 64, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 64, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 64, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 64, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 64, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 64, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 64, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 64, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 64, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 64, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 64, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 64, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 65, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 65, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 65, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 65, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 65, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 65, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 65, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 65, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 65, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 65, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 65, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 65, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 65, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 66, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 66, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 66, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 66, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 66, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 66, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 66, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 66, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 66, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 66, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 66, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 66, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 66, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 67, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 67, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 67, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 67, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 67, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 67, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 67, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 67, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 67, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 67, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 67, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 67, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 67, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 68, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 68, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 68, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 68, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 68, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 68, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 68, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 68, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 68, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 68, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 68, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 68, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 68, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 69, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 69, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 69, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 69, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 69, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 69, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 69, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 69, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 69, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 69, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 69, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 69, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 69, Temperature =   0.590 K, Load =  4.62e-06 W
+
+300K RTMLI Filter 1: Iteration = 70, Temperature = 273.375 K, Load = -8.92e-02 W
+300K RTMLI Filter 2: Iteration = 70, Temperature = 261.167 K, Load = -9.01e-02 W
+300K RTMLI Filter 3: Iteration = 70, Temperature = 246.982 K, Load = -1.10e-01 W
+300K RTMLI Filter 4: Iteration = 70, Temperature = 229.846 K, Load = -1.58e-01 W
+300K RTMLI Filter 5: Iteration = 70, Temperature = 207.753 K, Load = -2.54e-01 W
+300K RTMLI Filter 6: Iteration = 70, Temperature = 175.108 K, Load = -4.57e-01 W
+40K Alumina Filter 1: Iteration = 70, Temperature =  54.628 K, Load =  1.14e+01 W
+ 4K Alumina Lens 1: Iteration = 70, Temperature =   5.039 K, Load =  1.02e-01 W
+ 4K Alumina Lens 2: Iteration = 70, Temperature =   4.609 K, Load =  1.95e-03 W
+    4K LP Filter 1: Iteration = 70, Temperature =   4.791 K, Load =  2.15e-04 W
+    4K LP Filter 2: Iteration = 70, Temperature =   4.653 K, Load =  5.86e-05 W
+ 4K Alumina Lens 3: Iteration = 70, Temperature =   4.900 K, Load =  1.63e-06 W
+       LP Filter 3: Iteration = 70, Temperature =   0.590 K, Load =  4.62e-06 W
+
+################################################################################
+#                                  PB2 Filters                                 #
+################################################################################
+
+                                     Stage 0                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+      Incident Radiation     284.000 K             -              -9.44e+00 W
+                  Window     284.000 K             -               0.00e+00 W
+            Window Clamp     284.000 K             -              -4.49e-01 W
+             Front Plate     284.000 K             -              -6.11e-02 W
+     300K RTMLI Filter 1     284.000 K         273.375 K          -8.92e-02 W
+300K RTMLI Filter Clamp 1     284.000 K             -              -4.37e-04 W
+ 300K RTMLI Filter Gap 1     284.000 K             -              -4.26e-05 W
+     300K RTMLI Filter 2     274.000 K         261.167 K          -9.01e-02 W
+300K RTMLI Filter Clamp 2     274.000 K             -              -4.23e-04 W
+ 300K RTMLI Filter Gap 2     274.000 K             -              -4.06e-05 W
+     300K RTMLI Filter 3     264.000 K         246.982 K          -1.10e-01 W
+300K RTMLI Filter Clamp 3     264.000 K             -              -4.90e-04 W
+ 300K RTMLI Filter Gap 3     264.000 K             -              -4.19e-05 W
+     300K RTMLI Filter 4     254.000 K         229.846 K          -1.58e-01 W
+300K RTMLI Filter Clamp 4     254.000 K             -              -6.95e-04 W
+ 300K RTMLI Filter Gap 4     254.000 K             -              -4.68e-05 W
+     300K RTMLI Filter 5     244.000 K         207.753 K          -2.54e-01 W
+300K RTMLI Filter Clamp 5     244.000 K             -              -1.12e-03 W
+ 300K RTMLI Filter Gap 5     244.000 K             -              -7.90e-05 W
+     300K RTMLI Filter 6     234.000 K         175.108 K          -4.57e-01 W
+300K RTMLI Filter Clamp 6     234.000 K             -              -2.21e-03 W
+ 300K RTMLI Filter Gap 6     234.000 K             -              -4.05e-01 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -              -1.15e+01 W
+================================================================================
+
+                                     Stage I                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+    40K Alumina Filter 1      52.000 K          54.628 K           1.14e+01 W
+40K Alumina Filter Clamp 1      52.000 K             -               1.20e-04 W
+           40K to 4K Gap      52.000 K             -              -3.32e-04 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               1.14e+01 W
+================================================================================
+
+                                    Stage II                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+        4K to Lens 1 Gap       4.600 K             -               1.11e-03 W
+       4K Alumina Lens 1       4.600 K           5.039 K           1.02e-01 W
+ 4K Alumina Lens Clamp 1       4.600 K             -               2.65e-04 W
+           4K Lens Gap 1       4.600 K             -               6.53e-05 W
+       4K Alumina Lens 2       4.600 K           4.609 K           1.95e-03 W
+ 4K Alumina Lens Clamp 2       4.600 K             -               6.81e-05 W
+           4K Lens Gap 2       4.600 K             -               6.04e-06 W
+         Filter Ring Top       4.600 K             -               5.75e-04 W
+          4K LP Filter 1       4.600 K           4.791 K           2.15e-04 W
+    4K LP Filter Clamp 1       4.600 K             -               9.20e-07 W
+      4K LP Filter Gap 1       4.600 K             -               2.16e-08 W
+          4K LP Filter 2       4.600 K           4.653 K           5.86e-05 W
+    4K LP Filter Clamp 2       4.600 K             -               1.54e-07 W
+      4K LP Filter Gap 2       4.600 K             -               2.61e-09 W
+           Lyot Stop Top       4.600 K             -               1.54e-05 W
+        Lyot Stop Middle       5.600 K             -               3.38e-07 W
+        Lyot Stop Bottom       5.600 K             -              -4.36e-06 W
+           Lyot Stop Gap       4.900 K             -               6.31e-06 W
+       4K Alumina Lens 3       4.900 K           4.900 K           1.63e-06 W
+ 4K Alumina Lens Clamp 3       4.900 K             -              -4.37e-09 W
+              Lens 3 Gap       4.600 K             -              -7.44e-07 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               1.06e-01 W
+================================================================================
+
+                                    Stage III                                   
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+             LP Filter 3       0.350 K           0.590 K           4.62e-06 W
+       LP Filter Clamp 3       0.350 K             -               1.47e-08 W
+      LP Filter to Array       0.350 K             -               3.42e-07 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               4.97e-06 W
+================================================================================
+
+                                    Stage IV                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+            Array Module       0.250 K             -               1.88e-06 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               1.88e-06 W
+================================================================================
+
+################################################################################
+

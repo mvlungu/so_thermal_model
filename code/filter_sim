@@ -1,0 +1,277 @@
+#!/usr/bin/python -u
+
+import matplotlib as mpl
+from matplotlib import rc
+rc('text', usetex=True)
+mpl.use('Agg')
+import pylab
+
+import numpy as np
+import os
+import shutil
+import sys
+
+import warnings
+warnings.filterwarnings('ignore')
+
+from mpi4py import MPI
+from mpl_toolkits import mplot3d as mpl3d
+
+from cryolib import filters
+
+# MPI stuff
+
+comm = MPI.COMM_WORLD
+rank = comm.rank
+nproc = comm.size
+comm.Barrier()
+
+# Initialize filter stack
+
+cfgfp = sys.argv[1]
+stack = filters.OpticalStack.from_config(cfgfp)
+
+# Compute geometric transfer factors
+
+stack.compute_transfer_factors(comm)
+
+# Let the stack reach thermal equilibrium
+
+stack.thermalize(comm)
+
+# Save the stack
+
+if not rank:
+  outdir = '../stacks/'+stack.id.lower()+'/'
+
+  if not os.path.exists(outdir):
+    os.makedirs(outdir)
+
+  stack.dump(outdir+stack.id.lower()+'_filters.p')
+  shutil.copy(cfgfp,outdir)
+
+# Plot transfer factor matrices
+
+if not rank:
+  F = stack.transfer_factors.copy()
+  freq = stack.frequencies.copy()
+
+  mask = np.hstack([np.repeat(stack.types[i] != 'clamp', stack.nsurfaces[i]) \
+                    for i in range(stack.size)])
+
+  for f in range(len(F)):
+    Favg = (F[f]+F[f].T)/2
+    Fclamp1 = F[f].copy()
+    Fclamp2 = F[f].T.copy()
+
+    for i in range(len(F[f])):
+      if mask[i]:
+        F[f,i,:] = (Favg[:,i]+Favg[i,:])/2
+        F[f,:,i] = (Favg[:,i]+Favg[i,:])/2
+      else:
+        F[f,:,i] = Fclamp1[:,i]
+        F[f,i,:] = Fclamp2[i,:]
+
+  F[F == 0] = 1E-12
+  norm = mpl.colors.LogNorm(vmin = 1E-12, vmax = 1)
+
+  for f in range(len(F)):
+    mpl.pyplot.gcf().set_size_inches(7,6)
+    mpl.pyplot.imshow(F[f], interpolation = 'none', cmap = 'jet', norm = norm)
+    cb = mpl.pyplot.colorbar(shrink = 0.92)
+    cb.set_label(r'\rm{Transfer Factor (m}$^2$\rm{)}', fontsize = 12)
+    mpl.pyplot.xlabel(r'\rm{Surface Number}', fontsize = 12)
+    mpl.pyplot.ylabel(r'\rm{Surface Number}', fontsize = 12)
+    mpl.pyplot.title(r'\rm{%.2e Hz - %.2e Hz}' %(freq[f], freq[f+1]), \
+                     fontsize = 14)
+    mpl.pyplot.tight_layout()
+    mpl.pyplot.savefig(outdir+'transfer_matrix_%02d.png' %f)
+    mpl.pyplot.close(mpl.pyplot.gcf())
+
+# Plot filter temperature profiles
+
+if not rank:
+  maxradius = max([element.radius for element in stack.elements])*100
+
+  for i in range(len(stack.stages)):
+    mpl.pyplot.gcf().set_size_inches(8,6)
+
+    names = []
+
+    for j in range(stack.size):
+      element = stack.elements[j]
+
+      if stack.types[j] != 'filter' or stack.stagenum[j] != i:
+        continue
+
+      idx = stack.nsurfaces[:j].sum()+np.arange(stack.nsurfaces[j])
+
+      T = np.append(stack.temperatures[idx][::-1],stack.temperatures[idx][1:])
+      T = np.append(element.temperature,T)
+      T = np.append(T,element.temperature)
+
+      R = np.arange(0,element.radius+1E-14,element.ring_width)
+      R = np.append(-R[::-1],R[1:])*100
+
+      if stack.stages[i] > 0.9:
+        mpl.pyplot.plot(R,T, lw = 3)
+      else:
+        mpl.pyplot.plot(R,T*1000, lw = 3)
+
+      names.append(stack.names[j])
+
+    if i == 0:
+      stagestr = '0'
+    elif i < 4:
+      stagestr = 'I'*i
+    elif i == 4:
+      stagestr = 'IV'
+    elif i < 9:
+      stagestr = 'V'+'I'*(i-5)
+    elif i == 9:
+      stagestr = 'IX'
+    elif i < 14:
+      stagestr = 'X'+'I'*(i-10)
+
+    mpl.pyplot.xlim(-maxradius,maxradius)
+    mpl.pyplot.xlabel(r'\rm{Radius (cm)}', fontsize = 14)
+    mpl.pyplot.gca().tick_params(labelsize = 14)
+    xticklabels = [r'\rm{%s}' %(str(tick)) for tick in \
+                   abs(mpl.pyplot.gca().get_xticks())]
+    mpl.pyplot.gca().set_xticklabels(abs(mpl.pyplot.gca().get_xticks()))
+    mpl.pyplot.legend([r'\rm{%s}' %name for name in names], loc = 'best', \
+                      fontsize = 14)
+
+    if stack.stages[i] > 0.9:
+      mpl.pyplot.title(r'\rm{Stage %s: %d K}' %(stagestr, stack.stages[i]), \
+                       fontsize = 18)
+      mpl.pyplot.ylabel(r'\rm{Temperature (K)}', fontsize = 14)
+      mpl.pyplot.grid('on')
+      mpl.pyplot.tight_layout()
+      mpl.pyplot.savefig(outdir+'temperature_profiles_%dK.png' \
+                         %stack.stages[i])
+    else:
+      mpl.pyplot.title(r'\rm{Stage %s: %d mK}' %(stagestr,\
+                       1000*stack.stages[i]), fontsize = 18)
+      mpl.pyplot.ylabel(r'\rm{Temperature (mK)}', fontsize = 14)
+      mpl.pyplot.grid('on')
+      mpl.pyplot.tight_layout()
+      mpl.pyplot.savefig(outdir+'temperature_profiles_%dmK.png' \
+                         %(stack.stages[i]*1000))
+
+
+    mpl.pyplot.close(mpl.pyplot.gcf())
+
+# Print results
+
+if not rank:
+  print
+  print '#'*80
+  print '#' + ' '*((70-len(stack.id))/2+len(stack.id)%2) + stack.id + \
+        ' Filters' + ' '*((70-len(stack.id))/2) + '#'
+  print '#'*80
+  print
+
+  for i in range(len(stack.stages)):
+
+    if i == 0:
+      stagestr = '0'
+    elif i < 4:
+      stagestr = 'I'*i
+    elif i == 4:
+      stagestr = 'IV'
+    elif i < 9:
+      stagestr = 'V'+'I'*(i-5)
+    elif i == 9:
+      stagestr = 'IX'
+    elif i < 14:
+      stagestr = 'X'+'I'*(i-10)
+
+    print ' '*((74-len(stagestr))/2+len(stagestr)%2) + 'Stage ' + stagestr + \
+          ' '*((74-len(stagestr))/2)
+    print '='*80
+    print '                 Element    Temperature    Center Temperature' + \
+          '    Absorbed Power'
+    print '-'*80
+
+    idx = np.arange(stack.size)[stack.stagenum == i]
+
+    for j in range(len(idx)):
+      if stack.types[idx[j]] == 'filter':
+        print '%24s     %7.3f K         %7.3f K          %9.2e W' \
+               %(stack.names[idx[j]], stack.elements[idx[j]].temperature, \
+                 stack.temperatures[stack.nsurfaces[:idx[j]].sum()], \
+                 stack.power[idx[j]])
+      else:
+        print '%24s     %7.3f K             -              %9.2e W' \
+               %(stack.names[idx[j]], stack.elements[idx[j]].temperature, \
+                 stack.power[idx[j]])
+
+    print '-'*80
+    print '                   TOTAL         -                 -          ' + \
+          '    %9.2e W' %(stack.power[idx].sum()) 
+    print '='*80
+    print 
+
+  print '#'*80
+  print
+
+# Save results
+
+if not rank:
+  outfile = open(outdir+stack.id.lower()+'_filters_out.cfg', 'w')
+
+  outfile.write('#'+'='*78+'#\n')
+
+  for i in range(len(stack.stages)):
+
+    if i:
+      outfile.write('#'+'-'*78+'#\n')
+
+    if i == 0:
+      stagestr = '0'
+    elif i < 4:
+      stagestr = 'I'*i
+    elif i == 4:
+      stagestr = 'IV'
+    elif i < 9:
+      stagestr = 'V'+'I'*(i-5)
+    elif i == 9:
+      stagestr = 'IX'
+    elif i < 14:
+      stagestr = 'X'+'I'*(i-10)
+
+    outfile.write('\n')
+    outfile.write('[Stage %s]\n' %stagestr)
+    outfile.write('\n')
+
+    idx = np.arange(stack.size)[stack.stagenum == i]
+
+    for j in range(len(idx)):
+      element = stack.elements[idx[j]]
+
+      if stack.types[idx[j]] == 'filter':
+        fidx = stack.nsurfaces[:idx[j]].sum()+np.arange(stack.nsurfaces[idx[j]])
+
+        R = np.arange(0,element.radius+1E-14,element.ring_width)*100
+        R[:-1] += element.ring_width/2*100
+
+        T = np.append(stack.temperatures[fidx],element.temperature)
+
+        header = ' R (cm)     T (K)'
+        fmt = ' %9.6f  %10.6f'
+        np.savetxt(outdir+stack.names[idx[j]].replace(' ','_')+'.txt', \
+                   np.vstack([R,T]).T, fmt = fmt, header = header)
+
+      outfile.write('%-26s        %+10.4e  # W\n' %(stack.names[idx[j]]+':', \
+                                                    stack.power[idx[j]]))
+
+    outfile.write('%-26s        %+10.4e  # W\n' %('Total:', \
+                                                  stack.power[idx].sum()))
+    outfile.write('\n')
+
+  outfile.write('#'+'='*78+'#\n')
+
+  outfile.close()
+
+comm.Barrier()

@@ -1,0 +1,140 @@
+#!/usr/bin/python -u
+
+import matplotlib as mpl
+from matplotlib import rc
+rc('text', usetex=True)
+mpl.use('Agg')
+import pylab
+
+import numpy as np
+import sys
+
+from cryolib import filters
+
+# Initialize filter stack
+
+cfgfp = sys.argv[1]
+stack = filters.OpticalStack.from_config(cfgfp)
+
+#How much memory would you like to consume?
+numRays = 3000000
+
+#Plot Y Range in meters
+yRange = 1.4
+
+# Plot stuff
+
+if len(stack.stages) == 6:
+  c = ['k','r','y','g','c','b']
+elif len(stack.stages) == 5:
+  c = ['k','y','g','c','b']
+
+Ws = []
+
+for i in range(len(c)):
+  Ws.append(mpl.patches.Rectangle((0,0),1,1, color = c[i]))
+
+mpl.pyplot.gcf().set_size_inches(8,7)
+
+for i in range(stack.size):
+  element = stack.elements[i]
+  stage = stack.stagenum[i]
+
+  if type(stack.elements[i]) == filters.HemiSphere:
+
+    if element.plane[-1][0] == -1:
+      A = mpl.patches.Arc((0,element.origin[-1][0]), 2*element.radius+0.0035, \
+                          2*element.radius+0.0035, 180.0, 0.0, 180.0, \
+                          lw = 0.85, color = c[stage], zorder = 3)
+    else:
+      A = mpl.patches.Arc((0,element.origin[-1][0]), 2*element.radius+0.0035, \
+                          2*element.radius+0.0035, 0.0, 0.0, 180.0, \
+                          lw = 0.85, color = c[stage], zorder = 3)
+
+    mpl.pyplot.gca().add_artist(A)
+
+  elif type(stack.elements[i]) in [filters.Disk, filters.LayeredDisk]:
+    thickness = max(element.thickness, 0.001)
+
+    R = mpl.patches.Rectangle((-element.radius,element.origin[-1][0]), \
+                              2*element.radius, thickness, alpha = 1.0, \
+                              color = c[stage], ec = 'none', zorder = 3)
+
+    mpl.pyplot.gca().add_artist(R)
+
+  elif type(stack.elements[i]) == filters.Ring:
+    r1 = element.radius
+    r2 = r1+element.ring_width+0.0035
+
+    R1 = mpl.patches.Rectangle((-r2,element.origin[-1][0]), r2-r1, \
+                               0.0035, color = c[stage], alpha = 1.0, \
+                               ec = 'none', zorder = 3)
+    R2 = mpl.patches.Rectangle((r1,element.origin[-1][0]), r2-r1, \
+                               0.0035, color = c[stage], alpha = 1.0, \
+                               ec = 'none', zorder = 3)
+
+    mpl.pyplot.gca().add_artist(R1)
+    mpl.pyplot.gca().add_artist(R2)
+
+  elif type(stack.elements[i]) == filters.Cylinder:
+    R1 = mpl.patches.Rectangle((-element.radius-0.0035,element.origin[-1][0]), \
+                               0.0035, element.height, color = c[stage], \
+                               ec = 'none', alpha = 1.0, zorder = 3)
+    R2 = mpl.patches.Rectangle((element.radius,element.origin[-1][0]), \
+                               0.0035, element.height, color = c[stage], \
+                               ec = 'none', alpha = 1.0, zorder = 3)
+    mpl.pyplot.gca().add_artist(R1)
+    mpl.pyplot.gca().add_artist(R2)
+
+# Plot some rays
+
+rays = stack.elements[0].generate_rays(numRays)
+d = stack.elements[-1].intersect(rays)[0].flatten()
+
+mask = (d != np.inf)
+rays.reduce(mask)
+d = d[mask]
+
+idx = (stack.names == '4K Plate')
+d1 = stack.elements[idx][0].intersect(rays)[0].flatten()
+mask = (d1 == np.inf)
+rays.reduce(mask)
+d = d[mask]
+
+idx = (stack.names == 'Lyot Stop Top')
+d1 = stack.elements[idx][0].intersect(rays)[0].flatten()
+mask = (d1 == np.inf)
+rays.reduce(mask)
+d = d[mask]
+
+t = np.arange(2)*np.vstack([d,d]).T
+XX = rays.origin[:,0]+rays.direction[:,0]*t
+YY = rays.origin[:,1]+rays.direction[:,1]*t
+ZZ = rays.origin[:,2]+rays.direction[:,2]*t
+
+mask = np.all(XX > -0.01,1)*np.all(XX < 0.01,1)
+
+XX = XX[mask]
+YY = YY[mask]
+ZZ = ZZ[mask]
+
+for i in range(0,len(XX)):
+  mpl.pyplot.plot(np.sign(YY[i,:])*np.sqrt(XX[i,:]**2+YY[i,:]**2), ZZ[i,:], \
+                  'k', lw = 0.2, alpha = 0.2, zorder = 4)
+
+# Save plot
+
+mpl.pyplot.xlabel(r'\rm{X [m]}', fontsize = 14)
+mpl.pyplot.ylabel(r'\rm{Z [m]}', fontsize = 14)
+mpl.pyplot.title(r'\rm{%s Filters}' %stack.id, fontsize = 18)
+
+mpl.pyplot.legend(Ws, [r'\rm{%.1f K}' %stage for stage in stack.stages], \
+                  fontsize = 14)
+
+mpl.pyplot.tick_params(labelsize = 14)
+mpl.pyplot.grid('on', zorder = 2)
+mpl.pyplot.xlim(-1,1)
+mpl.pyplot.ylim(-0.4,yRange)
+mpl.pyplot.gca().invert_yaxis()
+mpl.pyplot.tight_layout()
+mpl.pyplot.savefig('../plots/%s.svg' %stack.id.lower())

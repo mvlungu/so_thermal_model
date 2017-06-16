@@ -1,0 +1,520 @@
+#!/usr/bin/python -u
+
+import sys
+import numpy as np
+
+# Get the inputs
+
+name = sys.argv[1]
+Dnew = float(sys.argv[2])
+Lnew = float(sys.argv[3])
+Dtube = float(sys.argv[4])
+Ntube = float(sys.argv[5])
+Nwafer = float(sys.argv[6])
+Ndet = float(sys.argv[7])
+mux = float(sys.argv[8])
+Nstage = float(sys.argv[9])
+
+# ACTPol defaults
+
+Dext = 110.0
+Lext = 146.0
+Text = 300.0
+Mext = 'Al_com'
+
+Doptics = 30.0
+
+T = [40.0,4.0,1.0,0.1]
+D = [96.3,91.3,30.0,25.3]
+L = [133.35,120.7,56.558,17.145]
+types = ['Shield','Shield','Optics','Array']
+
+M = [['MLI_Al_com_25','Al_com'],
+     ['MLI_Al_com_15','Nickel'],
+     ['Graphite','Cu_HiOx'],
+     ['Cu_HiOx','Cu_HiOx']]
+
+Ni = [1.0,1.0,1.0,1.0]
+Mi = ['G10_CR_warp','G10_CR_warp','Graphite_a','CF_cylinder']
+Li = [21.3,9.5,35.7,18.7]
+Di = [96.3,91.3,34.1,29.7]
+Wi = [1190.0,508.0,813.0,635.0]
+
+Lw = [9.0,13.0,10.0,10.0]
+Dw = [[122,0,226],
+      [122,0,226],
+      [122,0,226],
+      [94,10,226]]
+Mw = [['Manganin','None','Nylon'],
+      ['Manganin','None','Nylon'],
+      ['Manganin','None','Nylon'],
+      ['NbTi','PhBr','Nylon']]
+
+# Useful stuff
+
+bound = '#==============================================================================#'
+divider = '#------------------------------------------------------------------------------#'
+
+def int2roman(num):
+  if num < 4:
+    num = 'I'*num
+  elif num == 4:
+    num = 'IV'
+  elif num < 9:
+    num = 'V'+'I'*(num-5)
+  elif num == 9:
+    num = 'IX'
+  elif num < 14:
+    num = 'X'+'I'*(num-10)
+  elif num == 14:
+    num = 'XIV'
+  elif num < 19:
+    num = 'XV'+'I'*(num-15)
+  elif num == 19:
+    num = 'XIX'
+  elif num < 24:
+    num = 'XX'+'I'*(num-20)
+  elif num == 24:
+    num = 'XXIV'
+  elif num < 29:
+    num = 'XXV'+'I'*(num-25)
+  elif num == 29:
+    num = 'XXIX'
+  elif num < 34:
+    num = 'XXX'+'I'*(num-30)
+
+  return num
+
+def write_line(f,string):
+  f.write(string+'\n')
+
+def write_element(f,etype,name,stage,shape,idx,M,S,O,D,R,L,W,T):
+  write_line(f,'')
+
+  if etype.lower() == 'window':
+    write_line(f,'[Window]')
+  elif etype.lower() == 'entrance':
+    write_line(f,'[Entrance]')
+  elif etype.lower() == 'exit':
+    write_line(f,'[Exit]')
+  elif etype.lower() == 'wall':
+    write_line(f,'[Wall %s]' %int2roman(idx['wall']+1))
+    idx['wall'] += 1
+  elif etype.lower() == 'filter':
+    write_line(f,'[Filter %s]' %int2roman(idx['filter']+1))
+    idx['filter'] += 1
+
+  write_line(f,'')
+
+  write_line(f,'Name:            %-30s #' %name)
+  write_line(f,'Stage:           %-30d #' %stage)
+  write_line(f,'Index:           %-30d #' %idx['total'])
+  write_line(f,'')
+
+  write_line(f,'Material:        %-30s #' %M.capitalize())
+
+  if S is not None:
+    write_line(f,'Spectrum:        %-30s #' %S)
+
+  write_line(f,'')
+
+  write_line(f,'Shape:           %-30s #' %shape)
+  write_line(f,'Origin:          %-30s # cm' %('(0,0,%.4f)' %O))
+  write_line(f,'Direction:       %-30s #' %('(0,0,%.4f)' %D))
+  write_line(f,'Radius:          %-30.4f # cm' %R)
+
+  if L is not None:
+    write_line(f,'Length:          %-30.4f # cm' %L)
+
+  if W is not None:
+    write_line(f,'Width:           %-30.4f # cm' %W)
+
+  write_line(f,'Thickness:       %-30.3f # mm' %T)
+
+  write_line(f,'')
+  idx['total'] += 1
+
+  return idx
+
+# Prepare stages
+
+D = np.array(D)
+L = np.array(L)
+M = np.array(M)
+Di = np.array(Di)
+Li = np.array(Li)
+Wi = np.array(Wi)
+types = np.array(types)
+
+if Nstage == 5:
+  Dgap = D[0]-D[1]
+  Lgap = L[0]-L[1]
+
+  D[types == 'Shield'] -= Dgap
+  D = np.append(D[0]+Dgap,D)
+  Di[types == 'Shield'] -= Dgap
+  Di = np.append(Di[0]+Dgap,Di)
+
+  L[types == 'Shield'] -= Lgap
+  L = np.append(L[0]+Lgap,L)
+
+  T = np.append(80.0,T)
+  M = np.vstack([M[0],M])
+  types = np.append('Shield',types)
+
+  M[1,0] = M[2,0]
+
+  Ni = np.append(Ni[0],Ni)
+  Mi = np.append(Mi[0],Mi)
+  Li = np.append(Li[0],Li)
+  Wi = np.append(Wi[0],Wi)
+
+  Li[1] = np.mean([Li[0],Li[2]])
+  Wi[1] = np.mean([Wi[0],Wi[2]])
+
+  Lw = np.append(Lw[0],Lw)
+  Dw = np.vstack([Dw[0],Dw])
+  Mw = np.vstack([Mw[0],Mw])
+
+dD = Dnew - Dext
+dL = Lnew - Lext
+Dext = Dnew
+Lext = Lnew
+
+Dofac = Dtube/Doptics
+dDoptics = Dtube - Doptics
+Doptics = Dtube
+
+Di0 = Di.copy()
+V0 = np.pi/4*D**2*L
+
+D[types == 'Shield'] += dD
+Di[types == 'Shield'] += dD
+D[types != 'Shield'] += dDoptics
+Di[types != 'Shield'] += dDoptics
+
+L[types != 'Array'] += dL
+Li[types == 'Optics'] += dL
+
+V = np.pi/4*D**2*L
+Vfac = V/V0
+
+Wi = 0.5*(np.sqrt(Vfac*((Di0+2*Wi/1E4)**2-Di0**2)+Di**2) - Di)*1E4
+
+# Generate master config
+
+f = open(name.lower()+'.cfg','w')
+
+write_line(f,bound)
+write_line(f,'')
+
+write_line(f,'[Model]')
+write_line(f,'')
+
+write_line(f,'Identifier:      %-23s #' %name)
+write_line(f,'TubeQuantity:    %-23d #' %Ntube)
+write_line(f,'TubeDiameter:    %-23.1f # cm' %Doptics)
+write_line(f,'TubeWafers:      %-23d #' %Nwafer)
+write_line(f,'WaferDetectors:  %-23d #' %Ndet)
+write_line(f,'Muxfactor:       %-23.1f #' %mux)
+write_line(f,'')
+
+write_line(f,divider)
+write_line(f,'')
+
+write_line(f,'[Vacuum Shell]')
+write_line(f,'')
+
+write_line(f,'Diameter:        %-23.3f # cm' %Dext)
+write_line(f,'Length:          %-23.3f # cm' %Lext)
+write_line(f,'Temperature:     %-23.1f # K' %Text)
+write_line(f,'Material:        %-23s #' %Mext)
+write_line(f,'')
+
+for i in range(len(T)):
+  write_line(f,divider)
+  write_line(f,'')
+
+  write_line(f,'[Stage %s]' %int2roman(i+1))
+  write_line(f,'')
+
+  write_line(f,'Type:            %-23s #' %types[i])
+  write_line(f,'Temperature:     %-23.1f # K' %T[i])
+  write_line(f,'')
+
+  if types[i] == 'Shield':
+    write_line(f,'Diameter:        %-23.3f # cm' %D[i])
+  elif types[i] == 'Optics':
+    write_line(f,'Padding:         %-23.3f # cm' %(Di[i]-D[i]))
+  elif types[i] == 'Array':
+    write_line(f,'Gap:             %-23.3f # cm' %(Di[i-1]-Di[i]))
+
+  write_line(f,'Length:          %-23.3f # cm' %L[i])
+
+  if types[i] == 'Array':
+    write_line(f,'Material:        %-23s #' %M[i][0])
+  else:
+    write_line(f,'Material:        %-23s # (Exterior,Interior)' \
+               %('('+M[i][0]+','+M[i][1]+')'))
+
+  write_line(f,'')
+
+  write_line(f,'IsoNumber:       %-23d #' %Ni[i])
+  write_line(f,'IsoMaterial:     %-23s #' %Mi[i])
+  write_line(f,'IsoDimensions:   %-23s # (Length[cm],Diameter[cm],Width[um])' \
+             %('(%.1f,%.1f,%d)' %(Li[i],Di[i],np.round(Wi[i]))))
+  write_line(f,'')
+
+  write_line(f,'CableLength:     %-23.1f # cm' %Lw[i])
+  write_line(f,'CableThickness:  %-23s # (Wire[um],Cladding[um],Weave[um])' \
+             %('(%d,%d,%d)' %tuple(Dw[i])))
+  write_line(f,'CableMaterial:   %-23s # (Wire,Cladding,Weave)' \
+             %('(%s,%s,%s)' %tuple(Mw[i])))
+  write_line(f,'')
+
+write_line(f,bound)
+
+f.close()
+
+# Generate filter config
+
+f = open(name.lower()+'_filters.cfg','w')
+
+write_line(f,bound)
+write_line(f,'')
+
+write_line(f,'[Model]')
+write_line(f,'')
+
+write_line(f,'Identifier:      %-30s #' %name)
+write_line(f,'NumRings:        %-30d #' %(10))
+write_line(f,'NumRays:         %-30d #' %(100000))
+write_line(f,'MaxIterations:   %-30d #' %(1000))
+write_line(f,'Frequencies:     %-30s # (Low,High,Step) [Log10(Hz)]' \
+           %('(10,15,1)'))
+write_line(f,'')
+
+write_line(f,divider)
+write_line(f,'')
+
+write_line(f,'[Stages]')
+write_line(f,'')
+
+write_line(f,'Stage0:          %-30.1f # K' %Text)
+
+for i in range(len(T)):
+  write_line(f,'Stage%d:          %-30.1f # K' %(i+1,T[i]))
+
+write_line(f,'')
+
+write_line(f,divider)
+write_line(f,'')
+
+write_line(f,'[Spectra]')
+write_line(f,'')
+
+write_line(f,'Directory:       %-30s #' %('spectra'))
+write_line(f,'K1795:           %-30s #' %('low_pass_K1795.txt'))
+write_line(f,'K1806:           %-30s #' %('low_pass_K1806.txt'))
+write_line(f,'K1807:           %-30s #' %('low_pass_K1807.txt'))
+write_line(f,'K1808:           %-30s #' %('low_pass_K1808.txt'))
+write_line(f,'K1809:           %-30s #' %('low_pass_K1809.txt'))
+write_line(f,'IR050:           %-30s #' %('ir_blocker_50um_adjusted.txt'))
+write_line(f,'IR100:           %-30s #' %('ir_blocker_100um_adjusted.txt'))
+write_line(f,'')
+
+dZ = 0
+dS = 0
+idx = {'total':0,'wall':0,'filter':0}
+
+write_line(f,bound)
+
+idx = write_element(f,'Entrance','Incident Radiation',0,'Hemisphere',idx,\
+                    'Black',None,0,-1,14.8*Dofac,None,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Window','Window',0,'Disk',idx,'Transparent',None,0,1, \
+                    14.8*Dofac,None,None,6.35)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','Front Plate',0,'Cylinder',idx,'Al_com', \
+                    None, 0.635,1,14.8*Dofac,2.74,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','300K IR Filter 1',0,'LayeredDisk',idx, \
+                    'Teflon','IR050',3.375,1,14.8*Dofac,None,None,0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','300K IR Filter Gap 1',0,'Cylinder',idx,'Al_com', \
+                    None, 3.3754,1,14.8*Dofac,0.5,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','300K IR Filter 2',0,'LayeredDisk',idx, \
+                    'Teflon','IR050',3.8754,1,14.8*Dofac,None,None,0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','300K IR Filter Gap 2',0,'Cylinder',idx,'Black', \
+                    None, 3.8758,1,14.8*Dofac,0.832,None,0.0)
+write_line(f,divider)
+
+if Nstage == 5:
+  idx = write_element(f,'Filter','80K IR Filter 1',1,'LayeredDisk',idx, \
+                      'Teflon','IR050',4.7078,1,14.8*Dofac,None,None,0.004)
+  write_line(f,divider)
+
+  idx = write_element(f,'Wall','80K IR Filter Gap 1',1,'Cylinder',idx,'Al_com',\
+                      None, 4.7082,1,14.8*Dofac,0.5,None,0.0)
+  write_line(f,divider)
+
+  idx = write_element(f,'Filter','80K IR Filter 2',1,'LayeredDisk',idx, \
+                      'Teflon','IR050',5.2082,1,14.8*Dofac,None,None,0.004)
+  write_line(f,divider)
+
+  idx = write_element(f,'Wall','80K IR Filter Gap 2',1,'Cylinder',idx,'Al_com',\
+                      None, 5.2086,1,14.8*Dofac,0.5,None,0.0)
+  write_line(f,divider)
+
+  idx = write_element(f,'Filter','80K IR Filter 3',1,'LayeredDisk',idx, \
+                      'Teflon','IR050',5.7086,1,14.8*Dofac,None,None,0.004)
+  write_line(f,divider)
+
+  idx = write_element(f,'Wall','80K IR Filter Gap 3',1,'Cylinder',idx,'Black',\
+                      None, 5.709,1,14.8*Dofac,1.109,None,0.0)
+  write_line(f,divider)
+
+  dZ += 2.1102
+  dS += 1
+
+idx = write_element(f,'Filter','40K IR Filter 1',1+dS,'LayeredDisk',idx, \
+                    'Teflon','IR050',4.7078+dZ,1,14.8*Dofac,None,None, \
+                    0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','40K IR Filter Gap 1',1+dS,'Cylinder',idx, \
+                    'Al_com',None, 4.7082+dZ,1,14.8*Dofac,0.5,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','40K IR Filter 2',1+dS,'LayeredDisk',idx, \
+                    'Teflon','IR100',5.2082+dZ,1,14.8*Dofac,None,None, \
+                    0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','40K IR Filter Gap 2',1+dS,'Cylinder',idx, \
+                    'Al_com',None, 5.2086+dZ,1,14.8*Dofac,0.5,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','40K IR Filter 3',1+dS,'LayeredDisk',idx, \
+                    'Teflon','IR100',5.7086+dZ,1,14.8*Dofac,None,None, \
+                    0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','40K IR Filter Gap 3',1+dS,'Cylinder',idx, \
+                    'Al_com',None, 5.709+dZ,1,14.8*Dofac,0.751,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','40K LP Filter 1',1+dS,'LayeredDisk',idx, \
+                    'Teflon','K1806',6.46+dZ,1,14.8*Dofac,None,None, \
+                    2.14)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','40K LP Filter Gap 1',1+dS,'Cylinder',idx, \
+                    'Al_com',None, 6.674+dZ,1,14.8*Dofac,0.755,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','40K IR Filter 4',1+dS,'LayeredDisk',idx, \
+                    'Teflon','IR100',7.429+dZ,1,14.8*Dofac,None,None, \
+                    0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','40K IR Filter Gap 4',1+dS,'Cylinder',idx, \
+                    'Black',None, 7.4294+dZ,1,14.8*Dofac,1.109,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','4K IR Filter 1',2+dS,'LayeredDisk',idx, \
+                    'Teflon','IR100',8.5384+dZ,1,14.8*Dofac,None,None, \
+                    0.004)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','4K IR Filter Gap 1',2+dS,'Cylinder',idx, \
+                    'Al_com',None, 8.5388+dZ,1,14.8*Dofac,0.759,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','4K LP Filter 1',2+dS,'LayeredDisk',idx, \
+                    'Teflon','K1807',9.2978+dZ,1,14.8*Dofac,None,None, \
+                    2.08)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','4K Baffle Tube',2+dS,'Cylinder',idx, \
+                    'Black',None, 9.5058+dZ,1,14.8*Dofac,36.262+dL/2-dZ, \
+                    None,0.0)
+write_line(f,divider)
+
+dZ = dL/2
+Rlyot = 6.4*Dofac
+Wlyot = 1.9
+Rplate = Rlyot+Wlyot
+Wplate = 14.8*Dofac - Rplate
+
+idx = write_element(f,'Wall','4K Plate',2+dS,'Ring',idx,'Black',None, \
+                    45.7678+dZ,-1,Rplate,None,Wplate,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','Lyot Stop Top',3+dS,'Ring',idx,'Black',None, \
+                    45.7678+dZ,-1,Rlyot,None,Wlyot,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','Lyot Stop Middle',3+dS,'Cylinder',idx,'Black',\
+                    None, 45.7678+dZ,1,Rlyot,0.269,None,0.0)
+write_line(f,divider)
+
+Rfilter = Rlyot+Wlyot*Dofac
+Wbottom = Rfilter - Rlyot
+
+idx = write_element(f,'Wall','Lyot Stop Bottom',3+dS,'Ring',idx,'Black',None, \
+                    46.0368+dZ,1,Rlyot,None,Wbottom,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','Lyot Stop Gap',3+dS,'Cylinder',idx,'Black',\
+                    None, 46.0368+dZ,1,Rfilter,2.017,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','1K LP Filter 1',3+dS,'LayeredDisk',idx, \
+                    'Teflon','K1808',48.0538+dZ,1,Rfilter,None,None,2.0)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','1K LP Filter Holder 1',3+dS,'Ring',idx, \
+                    'Black',None, 48.2538+dZ,1,Rfilter,None,3.75*Dofac,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','1K LP Filter Gap 1',3+dS,'Cylinder',idx,'Black',\
+                    None, 48.2538+dZ,1,12.05*Dofac,4.374,None,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','1K LP Filter 2',3+dS,'LayeredDisk',idx, \
+                    'Teflon','K1795',52.6278+dZ,1,12.05*Dofac,None,None,3.39)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','1K LP Filter Holder 2',3+dS,'Ring',idx, \
+                    'Black',None, 52.9688+dZ,1,12.05*Dofac,None,2.55*Dofac,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Wall','1K LP Filter Gap 2',3+dS,'Cylinder',idx,'Black',\
+                    None, 52.9668+dZ,1,14.6*Dofac,30.136+dL/2,None,0.0)
+write_line(f,divider)
+
+dZ += dL/2
+
+idx = write_element(f,'Wall','1K Plate',3+dS,'Ring',idx,'Black',None, \
+                    83.1028+dZ,-1,8.725*Dofac,None,5.875*Dofac,0.0)
+write_line(f,divider)
+
+idx = write_element(f,'Filter','100mK LP Filter 1',4+dS,'LayeredDisk',idx, \
+                    'Teflon','K1809',83.1028+dZ,1,8.725*Dofac,None,None,2.41)
+write_line(f,divider)
+
+idx = write_element(f,'Exit','Array Module',4+dS,'Hemisphere',idx,\
+                    'Black',None,83.3438+dZ,1,8.725*Dofac,None,None,0.0)
+
+write_line(f,bound)
+
+f.close()

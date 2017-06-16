@@ -1,0 +1,27 @@
+#!/bin/bash
+
+echo "Start time: $(date)"
+
+if [ $# == 1 ]; then
+  fp=$1
+  np=4
+  log=$(echo $1 | awk -F/ '{print $NF}')
+  log="logs/$(echo $log | awk -F. '{print $1}').log"
+  nohup mpiexec -n $np ./filter_sim $fp < /dev/null > $log 2>&1 &
+
+elif [ $# == 3 ]; then
+
+  if [ $1 == '-n' ]; then
+    np=$2
+    fp=$3
+    log=$(echo $3 | awk -F/ '{print $NF}')
+    log="logs/$(echo $log | awk -F. '{print $1}').log"
+    nohup mpiexec -n $np python -u filter_sim $fp < /dev/null > $log 2>&1 &
+
+  else
+    echo Unrecognized option: $2
+  fi
+
+else
+  echo InputError: No config file specified
+fi

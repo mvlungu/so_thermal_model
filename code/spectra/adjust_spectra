@@ -1,0 +1,35 @@
+#!/usr/lib/python2.7/bin/python -u
+
+import sys
+sys.path.insert(0,'/mnt/act3/users/mlungu/software/build/lib64/python2.7/site-packages')
+
+import matplotlib as mpl
+from matplotlib import rc
+rc('text', usetex=True)
+mpl.use('Agg')
+import numpy as np
+import pylab
+
+from scipy.interpolate import interp1d as interpolate
+
+fac = 0.835
+
+f50,T50,A50 = np.loadtxt('ir_blocker_50um.txt').T
+f100,T100,A100 = np.loadtxt('ir_blocker_100um.txt').T
+
+T50 = 1-T50
+T50 *= fac
+T50 = 1-T50
+
+T100 = 1-T100
+T100 *= fac
+T100 = 1-T100
+
+header = 'Wavenumber (cm^-1)  T  A'
+fmt = '%.6f %.6f %.6f'
+
+np.savetxt('ir_blocker_50um_adjusted.txt', np.vstack([f50,T50,A50]).T, \
+           header = header, fmt = fmt)
+np.savetxt('ir_blocker_100um_adjusted.txt', np.vstack([f100,T100,A100]).T, \
+           header = header, fmt = fmt)
+

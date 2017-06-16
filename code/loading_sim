@@ -1,0 +1,285 @@
+#!/usr/bin/python -u
+
+import matplotlib as mpl
+from matplotlib import rc
+rc('text', usetex=True)
+mpl.use('Agg')
+import pylab
+
+import ConfigParser
+import numpy as np
+import sys
+
+from cryolib import conductivity as thermalC
+from cryolib import emissivity as thermalE
+
+# Initialize Model Configuration
+
+model = ConfigParser.ConfigParser()
+model.read(sys.argv[1])
+
+sections = model.sections()
+
+Nstages = len([sec for sec in sections if 'stage' in sec.lower()])
+stagetypes = np.empty(Nstages).astype(str)
+
+Tstages = np.zeros(Nstages)
+Dstages = np.zeros(Nstages)
+Lstages = np.zeros(Nstages)
+
+Mint = np.zeros(Nstages).astype(str)
+Mext = np.zeros(Nstages).astype(str)
+
+Niso = np.zeros(Nstages).astype(int)
+Miso = np.zeros(Nstages).astype(str)
+Liso = np.zeros(Nstages)
+Diso = np.zeros(Nstages)
+Wiso = np.zeros(Nstages)
+
+Lcable = np.zeros(Nstages)
+Dwire = np.zeros(Nstages)
+Dweave = np.zeros(Nstages)
+Wclad = np.zeros(Nstages)
+Mwire = np.zeros(Nstages).astype(str)
+Mweave = np.zeros(Nstages).astype(str)
+Mclad = np.zeros(Nstages).astype(str)
+
+for section in sections:
+  options = model.options(section)
+
+  if section.lower() == 'model':
+    modelID = model.get(section,'identifier').split('#')[0].strip()
+    Ntubes = int(model.get(section,'tubequantity').split('#')[0])
+    Dtube = float(model.get(section,'tubediameter').split('#')[0])
+    Nwafers = int(model.get(section,'tubewafers').split('#')[0])
+    Ndetectors = int(model.get(section,'waferdetectors').split('#')[0])
+    muxfactor = float(model.get(section,'muxfactor').split('#')[0])
+    
+  if section.lower() == 'vacuum shell':
+    Dshell = float(model.get(section,'diameter').split('#')[0])
+    Lshell = float(model.get(section,'length').split('#')[0])
+    Tshell = float(model.get(section,'temperature').split('#')[0])
+    Mshell = model.get(section,'material').split('#')[0].strip()
+
+  if 'stage' in section.lower():
+    stagenum = section.lower().split(' ')[1]
+
+    if stagenum[-1] == 'i':
+      if stagenum[0] == 'v':
+        idx = 4+stagenum.count('i')
+      elif stagenum[0] == 'i':
+        idx = stagenum.count('i')-1
+    elif stagenum[-1] == 'v':
+      idx = 4-stagenum.count('i')
+    elif stagenum[-1] == 'x':
+      idx = 9-stagenum.count('i')
+
+    stagetypes[idx] = model.get(section,'type').split('#')[0].strip().lower()
+
+    Tstages[idx] = float(model.get(section,'temperature').split('#')[0])
+    Lstages[idx] = float(model.get(section,'length').split('#')[0])
+
+    if stagetypes[idx] == 'shield':
+      Dstages[idx] = float(model.get(section,'diameter').split('#')[0])
+      Mext[idx] = model.get(section,'material').split('#')[0].split(',')[0]
+      Mint[idx] = model.get(section,'material').split('#')[0].split(',')[1]
+      Mext[idx] = Mext[idx].strip('(')
+      Mint[idx] = Mint[idx].split(')')[0]
+    elif stagetypes[idx] == 'optics':
+      Dstages[idx] = float(model.get(section,'padding').split('#')[0])
+      Mext[idx] = model.get(section,'material').split('#')[0].split(',')[0]
+      Mint[idx] = model.get(section,'material').split('#')[0].split(',')[1]
+      Mext[idx] = Mext[idx].strip('(')
+      Mint[idx] = Mint[idx].split(')')[0]
+    elif stagetypes[idx] == 'array':
+      Dstages[idx] = float(model.get(section,'gap').split('#')[0])
+      Mext[idx] = model.get(section,'material').split('#')[0].strip()
+      Mint[idx] = Mext[idx]
+
+    Niso[idx] = int(model.get(section,'isonumber').split('#')[0])
+    Miso[idx] = model.get(section,'isomaterial').split('#')[0].strip()
+
+    isodims = model.get(section,'IsoDimensions').split('#')[0].strip()
+    Liso[idx] = float(isodims.split(',')[0].strip('()'))
+    Diso[idx] = float(isodims.split(',')[1].strip('()'))
+    Wiso[idx] = float(isodims.split(',')[2].strip('()'))
+
+    Lcable[idx] = float(model.get(section,'cablelength').split('#')[0])
+
+    cabledims = model.get(section,'CableThickness').split('#')[0].strip()
+    Dwire[idx] = float(cabledims.split(',')[0].strip('()'))
+    Dweave[idx] = float(cabledims.split(',')[2].strip('()'))
+    Wclad[idx] = float(cabledims.split(',')[1].strip('()'))
+
+    cablematerials = model.get(section,'cablematerial').split('#')[0].strip()
+    Mwire[idx] = cablematerials.split(',')[0].strip('()')
+    Mweave[idx] = cablematerials.split(',')[2].strip('()')
+    Mclad[idx] = cablematerials.split(',')[1].strip('()')
+
+Dstages[stagetypes == 'optics'] += Dtube
+Dstages[stagetypes == 'array'] = Dstages[stagetypes == 'optics'] \
+                                 - Dstages[stagetypes == 'array']
+
+Tlo = Tstages
+Thi = np.append(Tshell,Tstages[:-1])
+
+Mlo = Mext
+Mhi = np.append(Mshell,Mint[:-1])
+
+Nwires = Ntubes*Nwafers*Ndetectors*4/muxfactor
+
+# Mechanical Supports
+
+Piso = np.zeros(Nstages)
+
+for i in range(Nstages):
+
+  if Wiso[i] == 0:
+    A = np.pi/4*(Diso[i]/100)**2
+  else:
+    A = np.pi/4*((Diso[i]/100+2*Wiso[i]/1E6)**2-(Diso[i]/100)**2)
+
+  k = thermalC.get_integrated_conductivity(Miso[i],Tlo[i],Thi[i])
+  Piso[i] = A/(Liso[i]/100)*k*Niso[i]
+
+  if stagetypes[i] in ['optics','array']:
+    Piso[i] *= Ntubes
+
+# Radiation Shields
+
+Prad = np.zeros(Nstages)
+
+for i in range(Nstages):
+  A = np.pi*(Dstages[i]/100)*(Lstages[i]/100)
+  A += (np.pi/4)*(Dstages[i]/100)**2
+
+  if stagetypes[i] == 'shield':
+    A += (np.pi/4)*(Dstages[i]/100)**2 - Ntubes*(np.pi/4)*(Dtube/100)**2
+ 
+  ehi = thermalE.get_emissivity(Mhi[i],Thi[i])
+  elo = thermalE.get_emissivity(Mlo[i],Tlo[i])
+
+  Prad[i] = (5.670367E-8)*A*(Thi[i]**4 - Tlo[i]**4)/(1/ehi + 1/elo - 1)
+
+  if stagetypes[i] in ['optics','array']:
+    Prad[i] *= Ntubes
+
+# Windows & Filters
+
+try:
+  filter_model = ConfigParser.ConfigParser()
+  filter_model.read('../stacks/' + modelID.lower() + '/' + modelID.lower() + \
+                  '_filters_out.cfg')
+  assert len(filter_model.sections()) != 0
+
+except:
+  del filter_model
+  print
+  print 'Warning: Could not load filter simulation output file. ' + \
+        'Skipping window loading'
+
+if 'filter_model' in locals():
+  sections = filter_model.sections()
+  Nfstages = len([sec for sec in sections if 'stage' in sec.lower() \
+                  if sec[-1] != '0'])
+
+  if Nfstages != Nstages:
+    print
+    print 'Warning: Filter and receiver stage number mismatch. ' + \
+          'Skipping window loading.'
+
+  else:
+
+    try:
+      Pwin = np.zeros(Nstages)
+
+      for section in sections:
+
+        if 'stage' in section.lower() and section[-1] != '0':
+          stagenum = section.lower().split(' ')[1]
+
+          if stagenum[-1] == 'i':
+            if stagenum[0] == 'v':
+              idx = 4+stagenum.count('i')
+            elif stagenum[0] == 'i':
+              idx = stagenum.count('i')-1
+          elif stagenum[-1] == 'v':
+            idx = 4-stagenum.count('i')
+          elif stagenum[-1] == 'x':
+            idx = 9-stagenum.count('i')
+
+          Pwin[idx] = float(filter_model.get(section,'total').split('#')[0])
+          Pwin[idx] *= Ntubes
+
+    except:
+      del Pwin
+      print 
+      print 'Warning: Could not parse filter simulation output. ' + \
+            'Skipping window loading'
+
+# Detector Cables
+
+Pcable = np.zeros(Nstages)
+
+for i in range(Nstages):
+  Awire = np.pi/4*(Dwire[i]/1E6)**2
+  Aweave = np.pi/4*(Dweave[i]/1E6)**2
+  Aclad = np.pi/4*((Dwire[i]/1E6+2*Wclad[i]/1E6)**2 - (Dwire[i]/1E6)**2)
+
+  if Mwire[i].lower() != 'none':
+    kwire = thermalC.get_integrated_conductivity(Mwire[i],Tlo[i],Thi[i])
+    Pcable[i] += Awire/(Lcable[i]/100)*kwire*Nwires
+  if Mweave[i].lower() != 'none':
+    kweave = thermalC.get_integrated_conductivity(Mweave[i],Tlo[i],Thi[i])
+    Pcable[i] += Aweave/(Lcable[i]/100)*kweave*Nwires
+  if Mclad[i].lower() != 'none':
+    kclad = thermalC.get_integrated_conductivity(Mclad[i],Tlo[i],Thi[i])
+    Pcable[i] += Aclad/(Lcable[i]/100)*kclad*Nwires
+
+# Print Results
+
+print 
+print '#'*80
+print '#' + ' '*((64-len(modelID))/2+len(modelID)%2) + modelID + \
+      ' Thermal Model' + ' '*((64-len(modelID))/2) + '#'
+print '#'*80
+print 
+print ' '*32+'Receiver Loading'+' '*32
+print '='*80
+print '    T        Supports       Shields       Optics        Wiring         TOTAL'
+print '-'*80
+
+Ptot = Piso+Prad+Pcable
+
+if 'Pwin' in locals():
+  Ptot += Pwin
+
+for i in range(Nstages):
+  line = ' %4.1f K ' %Tstages[i]
+
+  if Tstages[i] > 2.0:
+    m = 1.0
+    fmt = ' %7.3f W '
+  elif Tstages[i] > 0.5:
+    m = 1000
+    fmt = ' %7.3f mW'
+  else:
+    m = 1E6
+    fmt = ' %7.3f uW'
+
+  line += '   '+fmt %(Piso[i]*m)
+  line += '   '+fmt %(Prad[i]*m)
+
+  if 'Pwin' in locals():
+    line += '   '+fmt %(Pwin[i]*m)
+  else:
+    line += '         -    '
+
+  line += '   '+fmt %(Pcable[i]*m)
+  line += '   '+fmt %(Ptot[i]*m)
+
+  print line
+
+print
+print '#'*80
+print
