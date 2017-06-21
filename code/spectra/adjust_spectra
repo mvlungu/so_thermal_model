@@ -1,7 +1,4 @@
-#!/usr/lib/python2.7/bin/python -u
-
-import sys
-sys.path.insert(0,'/mnt/act3/users/mlungu/software/build/lib64/python2.7/site-packages')
+#!/usr/bin/python -u
 
 import matplotlib as mpl
 from matplotlib import rc
@@ -12,7 +9,7 @@ import pylab
 
 from scipy.interpolate import interp1d as interpolate
 
-fac = 0.835
+fac = 0.86
 
 f50,T50,A50 = np.loadtxt('ir_blocker_50um.txt').T
 f100,T100,A100 = np.loadtxt('ir_blocker_100um.txt').T
