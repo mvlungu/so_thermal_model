@@ -1,7 +1,4 @@
-#!/usr/lib/python2.7/bin/python -u
-
-import sys
-sys.path.insert(0,'/mnt/act3/users/mlungu/software/build/lib64/python2.7/site-packages')
+#!/usr/bin/python -u
 
 import matplotlib as mpl
 from matplotlib import rc

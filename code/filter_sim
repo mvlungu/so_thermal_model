@@ -106,12 +106,13 @@ if not rank:
 
       idx = stack.nsurfaces[:j].sum()+np.arange(stack.nsurfaces[j])
 
-      T = np.append(stack.temperatures[idx][::-1],stack.temperatures[idx][1:])
+      T = np.append(stack.temperatures[idx][::-1],stack.temperatures[idx])
       T = np.append(element.temperature,T)
       T = np.append(T,element.temperature)
 
       R = np.arange(0,element.radius+1E-14,element.ring_width)
-      R = np.append(-R[::-1],R[1:])*100
+      R[:-1] += element.ring_width/2
+      R = np.append(-R[::-1],R)*100
 
       if stack.stages[i] > 0.9:
         mpl.pyplot.plot(R,T, lw = 3)

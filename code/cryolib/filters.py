@@ -1603,22 +1603,29 @@ class Cylinder(object):
 
     d = ne.evaluate('b**2 - 4*a*e')
     d[abs(d) < 1E-14] = 0
-    mask = (d >= 0).flatten()
-    dm,bm,am = (d[mask],b[mask],a[mask])
+    dmask = (d >= 0).flatten()
+    dm,bm,am = (d[dmask],b[dmask],a[dmask])
     bm = ne.evaluate('-bm/(2*am)')
     am = ne.evaluate('sqrt(dm)/(2*am)')
-    dm = ne.evaluate('bm-am')
-    am = am[dm < 1E-14]
-    bm = dm[dm < 1E-14]
-    dm[dm < 1E-14] = ne.evaluate('bm+2*am')
-    d[mask] = dm
+    dm = np.hstack([ne.evaluate('bm-am'),ne.evaluate('bm+am')])
+    dm = dm.reshape(len(dm),1,2)
+    dm[abs(dm) < 1E-14] = 0
+
+    X = rays.origin[dmask] + rays.direction[dmask]*dm.reshape(len(dm),1,2)
+
+    mask = (np.matmul(N,X-(self.origin+(N*self.height).reshape(3,1))) > 1E-14)
+    mask = mask.reshape(len(dm),1,2)
+    mask += (np.matmul(N,X-self.origin) < -1E-14).reshape(len(dm),1,2)
+    mask += (dm < 1E-14)
+    dm[mask] = np.inf
+    dm = dm.min(2).reshape(len(dm),1,1)
+    dm[dm == np.inf] = 0
+    d[dmask] = dm
     d[abs(d) < 1E-14] = 0
 
     X = rays.origin + rays.direction*d.reshape(rays.n,1,1)
 
-    mask = (d < 0).reshape(rays.n,1)
-    mask += (np.matmul(N,X-self.origin) < -1E-14)
-    mask += (np.matmul(N,X-(self.origin+(N*self.height).reshape(3,1))) > 1E-14)
+    mask = (d <= 0).reshape(rays.n,1)
     mask = mask.flatten()
 
     N = X - self.origin

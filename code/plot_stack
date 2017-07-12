@@ -17,10 +17,10 @@ cfgfp = sys.argv[1]
 stack = filters.OpticalStack.from_config(cfgfp)
 
 #How much memory would you like to consume?
-numRays = 3000000
+numRays = 10000000
 
 #Plot Y Range in meters
-yRange = 1.4
+yRange = 1.8
 
 # Plot stuff
 
@@ -95,15 +95,12 @@ mask = (d != np.inf)
 rays.reduce(mask)
 d = d[mask]
 
-idx = (stack.names == '4K Plate')
-d1 = stack.elements[idx][0].intersect(rays)[0].flatten()
-mask = (d1 == np.inf)
-rays.reduce(mask)
-d = d[mask]
-
 idx = (stack.names == 'Lyot Stop Top')
-d1 = stack.elements[idx][0].intersect(rays)[0].flatten()
-mask = (d1 == np.inf)
+edge = stack.elements[idx][0]
+aperture = filters.Disk(edge.origin,edge.plane,edge.radius,0.0,'Transparent', \
+                        edge.temperature)
+d1 = aperture.intersect(rays)[0].flatten()
+mask = (d1 != np.inf)
 rays.reduce(mask)
 d = d[mask]
 
@@ -133,8 +130,10 @@ mpl.pyplot.legend(Ws, [r'\rm{%.1f K}' %stage for stage in stack.stages], \
 
 mpl.pyplot.tick_params(labelsize = 14)
 mpl.pyplot.grid('on', zorder = 2)
-mpl.pyplot.xlim(-1,1)
+mpl.pyplot.xlim(-1.2,1.2)
 mpl.pyplot.ylim(-0.4,yRange)
+mpl.pyplot.xticks([-1.2,-0.8,-0.4,0.0,0.4,0.8,1.2])
+mpl.pyplot.yticks([-0.4,0.0,0.4,0.8,1.2,1.6,2.0])
 mpl.pyplot.gca().invert_yaxis()
 mpl.pyplot.tight_layout()
 mpl.pyplot.savefig('../plots/%s.svg' %stack.id.lower())

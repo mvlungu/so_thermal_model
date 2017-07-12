@@ -342,7 +342,7 @@ idx = write_element(f,'Wall','Front Plate',0,'Cylinder',idx,'Al_com', \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','300K IR Filter 1',0,'LayeredDisk',idx, \
-                    'Teflon','IR050',3.375,1,14.8*Dofac,None,None,0.004)
+                    'Polypropylene','IR050',3.375,1,14.8*Dofac,None,None,0.004)
 write_line(f,divider)
 
 idx = write_element(f,'Wall','300K IR Filter Gap 1',0,'Cylinder',idx,'Al_com', \
@@ -350,7 +350,7 @@ idx = write_element(f,'Wall','300K IR Filter Gap 1',0,'Cylinder',idx,'Al_com', \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','300K IR Filter 2',0,'LayeredDisk',idx, \
-                    'Teflon','IR050',3.8754,1,14.8*Dofac,None,None,0.004)
+                    'Polypropylene','IR050',3.8754,1,14.8*Dofac,None,None,0.004)
 write_line(f,divider)
 
 idx = write_element(f,'Wall','300K IR Filter Gap 2',0,'Cylinder',idx,'Black', \
@@ -359,7 +359,8 @@ write_line(f,divider)
 
 if Nstage == 5:
   idx = write_element(f,'Filter','80K IR Filter 1',1,'LayeredDisk',idx, \
-                      'Teflon','IR050',4.7078,1,14.8*Dofac,None,None,0.004)
+                      'Polypropylene','IR050',4.7078,1,14.8*Dofac,None,None, \
+                      0.004)
   write_line(f,divider)
 
   idx = write_element(f,'Wall','80K IR Filter Gap 1',1,'Cylinder',idx,'Al_com',\
@@ -367,15 +368,17 @@ if Nstage == 5:
   write_line(f,divider)
 
   idx = write_element(f,'Filter','80K IR Filter 2',1,'LayeredDisk',idx, \
-                      'Teflon','IR050',5.2082,1,14.8*Dofac,None,None,0.004)
+                      'Polypropylene','IR050',5.2082,1,14.8*Dofac,None,None, \
+                      0.004)
   write_line(f,divider)
 
-  idx = write_element(f,'Wall','80K IR Filter Gap 2',1,'Cylinder',idx,'Al_com',\
-                      None, 5.2086,1,14.8*Dofac,0.5,None,0.0)
+  idx = write_element(f,'Wall','80K IR Filter Gap 2',1,'Cylinder',idx, \
+                      'Al_com',None, 5.2086,1,14.8*Dofac,0.5,None,0.0)
   write_line(f,divider)
 
   idx = write_element(f,'Filter','80K IR Filter 3',1,'LayeredDisk',idx, \
-                      'Teflon','IR050',5.7086,1,14.8*Dofac,None,None,0.004)
+                      'Polypropylene','IR050',5.7086,1,14.8*Dofac,None,None, \
+                      0.004)
   write_line(f,divider)
 
   idx = write_element(f,'Wall','80K IR Filter Gap 3',1,'Cylinder',idx,'Black',\
@@ -386,7 +389,7 @@ if Nstage == 5:
   dS += 1
 
 idx = write_element(f,'Filter','40K IR Filter 1',1+dS,'LayeredDisk',idx, \
-                    'Teflon','IR050',4.7078+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','IR050',4.7078+dZ,1,14.8*Dofac,None,None, \
                     0.004)
 write_line(f,divider)
 
@@ -395,7 +398,7 @@ idx = write_element(f,'Wall','40K IR Filter Gap 1',1+dS,'Cylinder',idx, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','40K IR Filter 2',1+dS,'LayeredDisk',idx, \
-                    'Teflon','IR100',5.2082+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','IR100',5.2082+dZ,1,14.8*Dofac,None,None, \
                     0.004)
 write_line(f,divider)
 
@@ -404,7 +407,7 @@ idx = write_element(f,'Wall','40K IR Filter Gap 2',1+dS,'Cylinder',idx, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','40K IR Filter 3',1+dS,'LayeredDisk',idx, \
-                    'Teflon','IR100',5.7086+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','IR100',5.7086+dZ,1,14.8*Dofac,None,None, \
                     0.004)
 write_line(f,divider)
 
@@ -413,7 +416,7 @@ idx = write_element(f,'Wall','40K IR Filter Gap 3',1+dS,'Cylinder',idx, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','40K LP Filter 1',1+dS,'LayeredDisk',idx, \
-                    'Teflon','K1806',6.46+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','K1806',6.46+dZ,1,14.8*Dofac,None,None, \
                     2.14)
 write_line(f,divider)
 
@@ -422,7 +425,7 @@ idx = write_element(f,'Wall','40K LP Filter Gap 1',1+dS,'Cylinder',idx, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','40K IR Filter 4',1+dS,'LayeredDisk',idx, \
-                    'Teflon','IR100',7.429+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','IR100',7.429+dZ,1,14.8*Dofac,None,None, \
                     0.004)
 write_line(f,divider)
 
@@ -431,7 +434,7 @@ idx = write_element(f,'Wall','40K IR Filter Gap 4',1+dS,'Cylinder',idx, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','4K IR Filter 1',2+dS,'LayeredDisk',idx, \
-                    'Teflon','IR100',8.5384+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','IR100',8.5384+dZ,1,14.8*Dofac,None,None, \
                     0.004)
 write_line(f,divider)
 
@@ -440,7 +443,7 @@ idx = write_element(f,'Wall','4K IR Filter Gap 1',2+dS,'Cylinder',idx, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','4K LP Filter 1',2+dS,'LayeredDisk',idx, \
-                    'Teflon','K1807',9.2978+dZ,1,14.8*Dofac,None,None, \
+                    'Polypropylene','K1807',9.2978+dZ,1,14.8*Dofac,None,None, \
                     2.08)
 write_line(f,divider)
 
@@ -463,7 +466,7 @@ idx = write_element(f,'Wall','Lyot Stop Top',3+dS,'Ring',idx,'Black',None, \
                     45.7678+dZ,-1,Rlyot,None,Wlyot,0.0)
 write_line(f,divider)
 
-idx = write_element(f,'Wall','Lyot Stop Middle',3+dS,'Cylinder',idx,'Black',\
+idx = write_element(f,'Wall','Lyot Stop Middle',3+dS,'Cylinder',idx,'Black', \
                     None, 45.7678+dZ,1,Rlyot,0.269,None,0.0)
 write_line(f,divider)
 
@@ -479,7 +482,7 @@ idx = write_element(f,'Wall','Lyot Stop Gap',3+dS,'Cylinder',idx,'Black',\
 write_line(f,divider)
 
 idx = write_element(f,'Filter','1K LP Filter 1',3+dS,'LayeredDisk',idx, \
-                    'Teflon','K1808',48.0538+dZ,1,Rfilter,None,None,2.0)
+                    'Polypropylene','K1808',48.0538+dZ,1,Rfilter,None,None,2.0)
 write_line(f,divider)
 
 idx = write_element(f,'Wall','1K LP Filter Holder 1',3+dS,'Ring',idx, \
@@ -491,11 +494,12 @@ idx = write_element(f,'Wall','1K LP Filter Gap 1',3+dS,'Cylinder',idx,'Black',\
 write_line(f,divider)
 
 idx = write_element(f,'Filter','1K LP Filter 2',3+dS,'LayeredDisk',idx, \
-                    'Teflon','K1795',52.6278+dZ,1,12.05*Dofac,None,None,3.39)
+                    'Polypropylene','K1795',52.6278+dZ,1,12.05*Dofac,None, \
+                    None,3.39)
 write_line(f,divider)
 
 idx = write_element(f,'Wall','1K LP Filter Holder 2',3+dS,'Ring',idx, \
-                    'Black',None, 52.9688+dZ,1,12.05*Dofac,None,2.55*Dofac,0.0)
+                    'Black',None, 52.9668+dZ,1,12.05*Dofac,None,2.55*Dofac,0.0)
 write_line(f,divider)
 
 idx = write_element(f,'Wall','1K LP Filter Gap 2',3+dS,'Cylinder',idx,'Black',\
@@ -509,7 +513,8 @@ idx = write_element(f,'Wall','1K Plate',3+dS,'Ring',idx,'Black',None, \
 write_line(f,divider)
 
 idx = write_element(f,'Filter','100mK LP Filter 1',4+dS,'LayeredDisk',idx, \
-                    'Teflon','K1809',83.1028+dZ,1,8.725*Dofac,None,None,2.41)
+                    'Polypropylene','K1809',83.1028+dZ,1,8.725*Dofac,None, \
+                    None,2.41)
 write_line(f,divider)
 
 idx = write_element(f,'Exit','Array Module',4+dS,'Hemisphere',idx,\
