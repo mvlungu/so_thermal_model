@@ -11,32 +11,38 @@ from scipy.interpolate import interp1d as interpolate
 
 h = 4E-6
 
+
 fpp,App = np.loadtxt('inputs/pp_spectrum.txt').T
 
-flo_50,Tlo_50 = np.loadtxt('inputs/ir_spectrum50_lo.txt').T
-fhi_50,Thi_50 = np.loadtxt('inputs/ir_spectrum50_hi.txt').T
+f_DSC15T, t_DSC15T = np.loadtxt('inputs/DSC15T.txt').T
+f_DSC75T, t_DSC75T = np.loadtxt('inputs/DSC75T.txt').T
 
-flo_100,Tlo_100 = np.loadtxt('inputs/ir_spectrum100_lo.txt').T
-fhi_100,Thi_100 = np.loadtxt('inputs/ir_spectrum100_hi.txt').T
-
-f50 = flo_50[flo_50 < 500]
-T50 = Tlo_50[flo_50 < 500]
-f50 = np.append(f50,fhi_50[fhi_50 >= 500])
-T50 = np.append(T50,Thi_50[fhi_50 >= 500])
-
-f100 = flo_100[flo_100 < 500]
-T100 = Tlo_100[flo_100 < 500]
-f100 = np.append(f100,fhi_100[fhi_100 >= 500])
-T100 = np.append(T100,Thi_100[fhi_100 >= 500])
+# flo_50,Tlo_50 = np.loadtxt('inputs/ir_spectrum50_lo.txt').T
+# fhi_50,Thi_50 = np.loadtxt('inputs/ir_spectrum50_hi.txt').T
+#
+# flo_100,Tlo_100 = np.loadtxt('inputs/ir_spectrum100_lo.txt').T
+# fhi_100,Thi_100 = np.loadtxt('inputs/ir_spectrum100_hi.txt').T
+#
+# f50 = flo_50[flo_50 < 500]
+# T50 = Tlo_50[flo_50 < 500]
+# f50 = np.append(f50,fhi_50[fhi_50 >= 500])
+# T50 = np.append(T50,Thi_50[fhi_50 >= 500])
+#
+# f100 = flo_100[flo_100 < 500]
+# T100 = Tlo_100[flo_100 < 500]
+# f100 = np.append(f100,fhi_100[fhi_100 >= 500])
+# T100 = np.append(T100,Thi_100[fhi_100 >= 500])
 
 A = interpolate(fpp,App,'linear')
-A50 = 1-np.exp(-A(f50)*h*100)
-A100 = 1-np.exp(-A(f100)*h*100)
+A_DSC15T = 1-np.exp(-A(f_DSC15T)*h*100)
+A_DSC75T = 1-np.exp(-A(f_DSC75T)*h*100)
+# A50 = 1-np.exp(-A(f50)*h*100)
+# A100 = 1-np.exp(-A(f100)*h*100)
 
 header = 'Wavenumber (cm^-1)  T  A'
 fmt = '%.6f %.6f %.6f'
 
-np.savetxt('ir_blocker_50um.txt', np.vstack([f50,T50,A50]).T, \
+np.savetxt('ds_ir_blocker_DSC15T.txt', np.vstack([f_DSC15T,t_DSC15T,A_DSC15T]).T, \
            header = header, fmt = fmt)
-np.savetxt('ir_blocker_100um.txt', np.vstack([f100,T100,A100]).T, \
+np.savetxt('ds_ir_blocker_DSC75T.txt', np.vstack([f_DSC75T,t_DSC75T,A_DSC75T]).T, \
            header = header, fmt = fmt)
