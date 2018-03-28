@@ -14,8 +14,9 @@ h = 4E-6
 
 fpp,App = np.loadtxt('inputs/pp_spectrum.txt').T
 
-f_DSC15T, t_DSC15T = np.loadtxt('inputs/DSC15T.txt').T
-f_DSC75T, t_DSC75T = np.loadtxt('inputs/DSC75T.txt').T
+f_varhard, t_varhard = np.loadtxt('inputs/Varfoam_hard.txt').T
+f_varsoft, t_varsoft = np.loadtxt('inputs/Varfoam_soft.txt').T
+f_japblue, t_japblue = np.loadtxt('inputs/Japfoam_blue.txt').T
 
 # flo_50,Tlo_50 = np.loadtxt('inputs/ir_spectrum50_lo.txt').T
 # fhi_50,Thi_50 = np.loadtxt('inputs/ir_spectrum50_hi.txt').T
@@ -34,15 +35,18 @@ f_DSC75T, t_DSC75T = np.loadtxt('inputs/DSC75T.txt').T
 # T100 = np.append(T100,Thi_100[fhi_100 >= 500])
 
 A = interpolate(fpp,App,'linear')
-A_DSC15T = 1-np.exp(-A(f_DSC15T)*h*100)
-A_DSC75T = 1-np.exp(-A(f_DSC75T)*h*100)
+A_varhard = 1-np.exp(-A(f_varhard)*h*100)
+A_varsoft = 1-np.exp(-A(f_varsoft)*h*100)
+A_japblue = 1-np.exp(-A(f_japblue)*h*100)
 # A50 = 1-np.exp(-A(f50)*h*100)
 # A100 = 1-np.exp(-A(f100)*h*100)
 
 header = 'Wavenumber (cm^-1)  T  A'
 fmt = '%.6f %.6f %.6f'
 
-np.savetxt('ds_ir_blocker_DSC15T.txt', np.vstack([f_DSC15T,t_DSC15T,A_DSC15T]).T, \
+np.savetxt('Varfoam_hard_formatted.txt', np.vstack([f_varhard,t_varhard,A_varhard]).T, \
            header = header, fmt = fmt)
-np.savetxt('ds_ir_blocker_DSC75T.txt', np.vstack([f_DSC75T,t_DSC75T,A_DSC75T]).T, \
+np.savetxt('Varfoam_soft_formatted.txt', np.vstack([f_varsoft,t_varsoft,A_varsoft]).T, \
+           header = header, fmt = fmt)
+np.savetxt('Japfoam_blue.txt', np.vstack([f_japblue,t_japblue,A_japblue]).T, \
            header = header, fmt = fmt)
