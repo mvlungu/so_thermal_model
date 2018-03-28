@@ -1,0 +1,1008 @@
+
+        300K IR Filter 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+                  Window ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K DS IR Filter 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        40K Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     40K DS IR Blocker 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+         4K Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       4K Baffled Tube 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =   15 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+           Lyot Stop Top ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+          1K LP Filter 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     100mK LP Filter Gap ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =   15 
+          1K LP Filter 1 ( 7/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 8/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =   15 
+        Lyot Stop Bottom ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =    1 
+       100mK LP Filter 1 ( 3/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 1/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+    4K Thick IR Filter 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 9/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =   15 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =   16 
+           Lyot Stop Gap ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 5/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 2/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 (10/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =   14 
+          1K LP Filter 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 6/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+            Array Module ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+        Lyot Stop Middle ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 4/10): Band = 0.0e+00-1.0e+09 Hz, Iterations =  999 
+     100mK LP Filter Gap ( 1/ 1): Band = 0.0e+00-1.0e+09 Hz, Iterations =   16 
+
+        300K IR Filter 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+                  Window ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =   17 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =   16 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =   14 
+          1K LP Filter 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =   14 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =   15 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =   14 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =   14 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =   14 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+            Array Module ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =   16 
+       100mK LP Filter 1 (10/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =   14 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+09-1.0e+10 Hz, Iterations =   13 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+09-1.0e+10 Hz, Iterations =  999 
+
+        300K IR Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+                  Window ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   17 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   19 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   16 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   15 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   11 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       100mK LP Filter 1 (10/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =   17 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+            Array Module ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   21 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+10-1.0e+11 Hz, Iterations =  999 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+10-1.0e+11 Hz, Iterations =   20 
+
+        300K IR Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+                  Window ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   12 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   22 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   20 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   24 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   10 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =    9 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   24 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   18 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   14 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   11 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   18 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =   17 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   16 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   24 
+       100mK LP Filter 1 (10/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   10 
+            Array Module ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =    9 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+11-1.0e+12 Hz, Iterations =   32 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+11-1.0e+12 Hz, Iterations =    9 
+
+                  Window ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   36 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   40 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   67 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   77 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   14 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   11 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  168 
+             100mK plate ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    2 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   55 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   10 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    8 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   34 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   11 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   50 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   23 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   54 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   40 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    6 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   54 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   10 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   94 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =  276 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   50 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   12 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   13 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   11 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+          1K LP Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   11 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  115 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    8 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   35 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    2 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5 
+       100mK LP Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =   57 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   11 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   49 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    5 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    9 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   47 
+            Array Module ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    3 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   78 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =   20 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+12-1.0e+13 Hz, Iterations =    8 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+12-1.0e+13 Hz, Iterations =    4 
+
+                  Window ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   63 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   43 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   49 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   21 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    4 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   23 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  233 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   38 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    7 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   30 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    4 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   32 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   55 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    7 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    9 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    4 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   34 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   43 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   64 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   33 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   70 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   50 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    9 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   45 
+          1K LP Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   33 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   45 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   29 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   12 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   19 
+       100mK LP Filter 1 (10/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    2 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   87 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   11 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =   29 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    4 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+            Array Module ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    1 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    0 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   76 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   24 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =  216 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =   18 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+13-1.0e+14 Hz, Iterations =    3 
+
+                  Window ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   36 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   68 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  113 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   22 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    7 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   88 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    2 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    4 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  221 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   73 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   60 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  159 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   57 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   39 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   68 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   60 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  167 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   85 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   38 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    9 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  108 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   72 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    2 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   19 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+       100mK LP Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    2 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   20 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   57 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   19 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    4 
+          1K LP Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    7 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   43 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   42 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   81 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  286 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   57 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   22 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   29 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  128 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    8 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   18 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    4 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =   30 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    3 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    5 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    4 
+            Array Module ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    1 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    0 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   41 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   54 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =  168 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =   19 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+14-1.0e+15 Hz, Iterations =    6 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+14-1.0e+15 Hz, Iterations =    3 
+
+                  Window ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      Incident Radiation ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+             Front Plate ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+            Window Clamp ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+        300K IR Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+  300K IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+               80K Plate ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K DS IR Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+    300K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+     80K IR Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   49 
+       4K DS IR Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   62 
+      80K Al IR Filter 2 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   51 
+    4K Thick IR Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   19 
+     40K DS IR Blocker 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   33 
+          1K LP Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+          1K LP Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    7 
+      80K DS IR Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+             100mK plate ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    2 
+       100mK LP Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    5 
+        40K Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  248 
+      80K DS IR Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   75 
+    4K Thick IR Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   15 
+       4K Baffled Tube 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    5 
+      80K DS IR Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+          1K LP Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+           Lyot Stop Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    5 
+      80K Al IR Filter 2 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+     80K IR Filter Gap 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  233 
+      80K Al IR Filter 2 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   62 
+80K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K Al IR Filter 2 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   84 
+     40K DS IR Blocker 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   62 
+      80K DS IR Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+       4K DS IR Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   75 
+     40K DS IR Blocker 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   62 
+       4K DS IR Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  105 
+       4K DS IR Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   89 
+         4K Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  216 
+    4K Thick IR Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   14 
+    4K Thick IR Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   27 
+       4K DS IR Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   85 
+    4K Thick IR Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   30 
+          1K LP Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    9 
+      80K Al IR Filter 2 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+          1K LP Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+    4K Thick IR Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   22 
+      1K LP Filter Gap 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    2 
+          1K LP Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+           Lyot Stop Top ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    5 
+       100mK LP Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+      80K Al IR Filter 2 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+     40K DS IR Blocker 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   48 
+          1K LP Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   10 
+       100mK LP Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   11 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    3 
+     40K DS IR Blocker 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   48 
+ 100mK LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    3 
+       100mK LP Filter 1 ( 8/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+     40K DS IR Blocker 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   82 
+     40K DS IR Blocker 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  206 
+       4K DS IR Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   87 
+       4K DS IR Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   59 
+    4K Thick IR Filter 1 ( 2/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   24 
+    4K Thick IR Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   19 
+    4K Thick IR Filter 1 (10/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   37 
+4K Thick IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =   30 
+          1K LP Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+          1K LP Filter 1 ( 6/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+        Lyot Stop Bottom ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+        Lyot Stop Middle ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 5/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 4/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+            Array Module ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    1 
+     100mK LP Filter Gap ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    3 
+      80K DS IR Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+      80K Al IR Filter 2 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =  999 
+80K Al IR Filter Clamp 2 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    0 
+     40K DS IR Blocker 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   36 
+       4K DS IR Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   49 
+ 4K DS IR Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =  231 
+    4K Thick IR Filter 1 ( 7/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =   20 
+          1K LP Filter 1 ( 3/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    6 
+    1K LP Filter Clamp 1 ( 1/ 1): Band = 1.0e+15-1.0e+16 Hz, Iterations =    5 
+       100mK LP Filter 1 ( 1/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+       100mK LP Filter 1 ( 9/10): Band = 1.0e+15-1.0e+16 Hz, Iterations =    4 
+
+  300K IR Filter 1: Iteration =  1, Temperature = 286.598 K, Load = -1.44e-03 W
+80K DS IR Filter 1: Iteration =  1, Temperature = 222.098 K, Load =  1.34e-02 W
+80K Al IR Filter 2: Iteration =  1, Temperature =  80.802 K, Load =  3.87e+00 W
+40K DS IR Blocker 1: Iteration =  1, Temperature =  73.276 K, Load =  4.28e-04 W
+ 4K DS IR Filter 1: Iteration =  1, Temperature =  67.198 K, Load =  2.65e-02 W
+4K Thick IR Filter 1: Iteration =  1, Temperature =  21.088 K, Load =  1.74e-02 W
+    1K LP Filter 1: Iteration =  1, Temperature =   1.093 K, Load =  1.15e-05 W
+ 100mK LP Filter 1: Iteration =  1, Temperature =   0.106 K, Load =  4.79e-08 W
+
+  300K IR Filter 1: Iteration =  2, Temperature = 287.790 K, Load = -1.35e-03 W
+80K DS IR Filter 1: Iteration =  2, Temperature = 222.299 K, Load =  1.35e-02 W
+80K Al IR Filter 2: Iteration =  2, Temperature =  80.808 K, Load =  3.90e+00 W
+40K DS IR Blocker 1: Iteration =  2, Temperature =  75.218 K, Load =  4.54e-04 W
+ 4K DS IR Filter 1: Iteration =  2, Temperature =  67.242 K, Load =  2.65e-02 W
+4K Thick IR Filter 1: Iteration =  2, Temperature =  21.110 K, Load =  1.74e-02 W
+    1K LP Filter 1: Iteration =  2, Temperature =   1.094 K, Load =  1.15e-05 W
+ 100mK LP Filter 1: Iteration =  2, Temperature =   0.106 K, Load =  4.79e-08 W
+
+  300K IR Filter 1: Iteration =  3, Temperature = 287.794 K, Load = -1.35e-03 W
+80K DS IR Filter 1: Iteration =  3, Temperature = 222.299 K, Load =  1.35e-02 W
+80K Al IR Filter 2: Iteration =  3, Temperature =  80.808 K, Load =  3.90e+00 W
+40K DS IR Blocker 1: Iteration =  3, Temperature =  75.225 K, Load =  4.54e-04 W
+ 4K DS IR Filter 1: Iteration =  3, Temperature =  67.242 K, Load =  2.65e-02 W
+4K Thick IR Filter 1: Iteration =  3, Temperature =  21.110 K, Load =  1.74e-02 W
+    1K LP Filter 1: Iteration =  3, Temperature =   1.094 K, Load =  1.15e-05 W
+ 100mK LP Filter 1: Iteration =  3, Temperature =   0.106 K, Load =  4.79e-08 W
+
+  300K IR Filter 1: Iteration =  4, Temperature = 287.794 K, Load = -1.35e-03 W
+80K DS IR Filter 1: Iteration =  4, Temperature = 222.299 K, Load =  1.35e-02 W
+80K Al IR Filter 2: Iteration =  4, Temperature =  80.808 K, Load =  3.90e+00 W
+40K DS IR Blocker 1: Iteration =  4, Temperature =  75.225 K, Load =  4.54e-04 W
+ 4K DS IR Filter 1: Iteration =  4, Temperature =  67.242 K, Load =  2.65e-02 W
+4K Thick IR Filter 1: Iteration =  4, Temperature =  21.110 K, Load =  1.74e-02 W
+    1K LP Filter 1: Iteration =  4, Temperature =   1.094 K, Load =  1.15e-05 W
+ 100mK LP Filter 1: Iteration =  4, Temperature =   0.106 K, Load =  4.79e-08 W
+
+  300K IR Filter 1: Iteration =  5, Temperature = 287.794 K, Load = -1.35e-03 W
+80K DS IR Filter 1: Iteration =  5, Temperature = 222.299 K, Load =  1.35e-02 W
+80K Al IR Filter 2: Iteration =  5, Temperature =  80.808 K, Load =  3.90e+00 W
+40K DS IR Blocker 1: Iteration =  5, Temperature =  75.225 K, Load =  4.54e-04 W
+ 4K DS IR Filter 1: Iteration =  5, Temperature =  67.242 K, Load =  2.65e-02 W
+4K Thick IR Filter 1: Iteration =  5, Temperature =  21.110 K, Load =  1.74e-02 W
+    1K LP Filter 1: Iteration =  5, Temperature =   1.094 K, Load =  1.15e-05 W
+ 100mK LP Filter 1: Iteration =  5, Temperature =   0.106 K, Load =  4.79e-08 W
+
+################################################################################
+#                              v3opt1-75T Filters                              #
+################################################################################
+
+                                     Stage 0                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+      Incident Radiation     300.000 K             -              -3.58e+00 W
+                  Window     300.000 K             -               0.00e+00 W
+            Window Clamp     300.000 K             -              -9.18e-02 W
+             Front Plate     300.000 K             -              -4.84e-02 W
+        300K IR Filter 1     300.000 K         287.794 K          -1.35e-03 W
+  300K IR Filter Clamp 1     300.000 K             -              -1.80e-04 W
+    300K IR Filter Gap 1     300.000 K             -              -7.01e-01 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -              -4.43e+00 W
+================================================================================
+
+                                     Stage I                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+               80K Plate      80.000 K             -               4.62e-01 W
+      80K DS IR Filter 1      80.000 K         222.299 K           1.35e-02 W
+80K DS IR Filter Clamp 1      80.000 K             -               1.64e-05 W
+     80K IR Filter Gap 1      80.000 K             -               3.96e-03 W
+      80K Al IR Filter 2      80.000 K          80.808 K           3.90e+00 W
+80K Al IR Filter Clamp 2      80.000 K             -               7.98e-04 W
+     80K IR Filter Gap 2      80.000 K             -              -7.21e-05 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               4.38e+00 W
+================================================================================
+
+                                    Stage II                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+     40K DS IR Blocker 1      40.000 K          75.225 K           4.54e-04 W
+     40K DS IR Blocker 1      40.000 K             -               5.82e-06 W
+        40K Filter Gap 1      40.000 K             -               1.46e-03 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               1.92e-03 W
+================================================================================
+
+                                    Stage III                                   
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+       4K DS IR Filter 1       4.000 K          67.242 K           2.65e-02 W
+ 4K DS IR Filter Clamp 1       4.000 K             -               4.69e-06 W
+         4K Filter Gap 1       4.000 K             -               8.05e-05 W
+    4K Thick IR Filter 1       4.000 K          21.110 K           1.74e-02 W
+4K Thick IR Filter Clamp 1       4.000 K             -               3.19e-05 W
+       4K Baffled Tube 1       4.000 K             -               2.03e-03 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               4.61e-02 W
+================================================================================
+
+                                    Stage IV                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+          1K LP Filter 1       1.000 K           1.094 K           1.15e-05 W
+    1K LP Filter Clamp 1       1.000 K             -               6.57e-07 W
+      1K LP Filter Gap 1       1.000 K             -               7.47e-06 W
+           Lyot Stop Top       1.000 K             -               1.45e-05 W
+        Lyot Stop Middle       1.000 K             -               5.47e-08 W
+        Lyot Stop Bottom       1.000 K             -               1.84e-06 W
+           Lyot Stop Gap       1.000 K             -               1.76e-06 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               3.79e-05 W
+================================================================================
+
+                                     Stage V                                    
+================================================================================
+                 Element    Temperature    Center Temperature    Absorbed Power
+--------------------------------------------------------------------------------
+             100mK plate       0.100 K             -               5.73e-09 W
+     100mK LP Filter Gap       0.100 K             -               2.40e-08 W
+       100mK LP Filter 1       0.100 K           0.106 K           4.79e-08 W
+ 100mK LP Filter Clamp 1       0.100 K             -               1.03e-09 W
+     100mK LP Filter Gap       0.100 K             -               9.68e-09 W
+            Array Module       0.100 K             -               1.68e-07 W
+--------------------------------------------------------------------------------
+                   TOTAL         -                 -               2.56e-07 W
+================================================================================
+
+################################################################################
+
