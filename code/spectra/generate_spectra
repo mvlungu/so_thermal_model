@@ -14,16 +14,8 @@ h = 4E-6
 
 fpp,App = np.loadtxt('inputs/pp_spectrum.txt').T
 
-f_varhard, t_varhard = np.loadtxt('inputs/Varfoam_hard.txt').T
-f_varsoft, t_varsoft = np.loadtxt('inputs/Varfoam_soft.txt').T
-f_japblue, t_japblue = np.loadtxt('inputs/Japfoam_blue.txt').T
+f_15icm, t_15icm = np.loadtxt('inputs/15icm_thick_IR.txt').T
 
-# flo_50,Tlo_50 = np.loadtxt('inputs/ir_spectrum50_lo.txt').T
-# fhi_50,Thi_50 = np.loadtxt('inputs/ir_spectrum50_hi.txt').T
-#
-# flo_100,Tlo_100 = np.loadtxt('inputs/ir_spectrum100_lo.txt').T
-# fhi_100,Thi_100 = np.loadtxt('inputs/ir_spectrum100_hi.txt').T
-#
 # f50 = flo_50[flo_50 < 500]
 # T50 = Tlo_50[flo_50 < 500]
 # f50 = np.append(f50,fhi_50[fhi_50 >= 500])
@@ -34,19 +26,13 @@ f_japblue, t_japblue = np.loadtxt('inputs/Japfoam_blue.txt').T
 # f100 = np.append(f100,fhi_100[fhi_100 >= 500])
 # T100 = np.append(T100,Thi_100[fhi_100 >= 500])
 
-A = interpolate(fpp,App,'linear')
-A_varhard = 1-np.exp(-A(f_varhard)*h*100)
-A_varsoft = 1-np.exp(-A(f_varsoft)*h*100)
-A_japblue = 1-np.exp(-A(f_japblue)*h*100)
-# A50 = 1-np.exp(-A(f50)*h*100)
-# A100 = 1-np.exp(-A(f100)*h*100)
+App[App < 0] = 0
+
+A = interpolate(fpp,App,'linear', fill_value="extrapolate")
+A_f_15icm = 1-np.exp(-A(f_15icm)*h*100)
 
 header = 'Wavenumber (cm^-1)  T  A'
 fmt = '%.6f %.6f %.6f'
 
-np.savetxt('Varfoam_hard_formatted.txt', np.vstack([f_varhard,t_varhard,A_varhard]).T, \
-           header = header, fmt = fmt)
-np.savetxt('Varfoam_soft_formatted.txt', np.vstack([f_varsoft,t_varsoft,A_varsoft]).T, \
-           header = header, fmt = fmt)
-np.savetxt('Japfoam_blue.txt', np.vstack([f_japblue,t_japblue,A_japblue]).T, \
+np.savetxt('15icm_thick_IR_Cardiff.txt', np.vstack([f_15icm,t_15icm,A_f_15icm]).T, \
            header = header, fmt = fmt)
